@@ -1,0 +1,463 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bracha Kavana — Kártya böngésző</title>
+  <style>
+    /* ── Reset & Base ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+      background: #f5f3ee;
+      color: #222;
+      min-height: 100vh;
+    }
+
+    /* ── Layout ── */
+    header {
+      background: #2c5f2e;
+      color: #fff;
+      padding: 1rem 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    header h1 { font-size: 1.4rem; font-weight: 700; }
+    header p  { font-size: 0.85rem; opacity: 0.8; }
+
+    .container {
+      display: grid;
+      grid-template-columns: 260px 1fr;
+      gap: 1.5rem;
+      max-width: 1200px;
+      margin: 1.5rem auto;
+      padding: 0 1rem;
+    }
+    @media (max-width: 700px) {
+      .container { grid-template-columns: 1fr; }
+    }
+
+    /* ── Sidebar ── */
+    .sidebar {
+      background: #fff;
+      border-radius: 8px;
+      padding: 1rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,.1);
+      align-self: start;
+    }
+    .sidebar h2 { font-size: 1rem; margin-bottom: 0.75rem; color: #555; }
+
+    /* Filters */
+    .filter-group { margin-bottom: 1rem; }
+    .filter-group label { display: block; font-size: 0.8rem; color: #777; margin-bottom: 0.25rem; }
+    .filter-group select, .filter-group input {
+      width: 100%; padding: 0.4rem 0.5rem; border: 1px solid #ccc;
+      border-radius: 5px; font-size: 0.9rem; background: #fafafa;
+    }
+
+    /* Category list */
+    .cat-list { list-style: none; }
+    .cat-list li {
+      padding: 0.45rem 0.6rem;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 0.9rem;
+      transition: background 0.15s;
+    }
+    .cat-list li:hover  { background: #e8f5e9; }
+    .cat-list li.active { background: #c8e6c9; font-weight: 600; }
+
+    /* ── Main panel ── */
+    .main { display: flex; flex-direction: column; gap: 1rem; }
+
+    .bracha-group {
+      background: #fff;
+      border-radius: 8px;
+      box-shadow: 0 1px 4px rgba(0,0,0,.1);
+      overflow: hidden;
+    }
+    .bracha-header {
+      background: #e8f5e9;
+      padding: 0.65rem 1rem;
+      font-size: 1rem;
+      font-weight: 600;
+      cursor: pointer;
+      user-select: none;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .bracha-header .heb { font-size: 1.1rem; direction: rtl; color: #2c5f2e; }
+    .bracha-header .toggle { font-size: 0.8rem; color: #888; }
+    .bracha-cards { display: none; padding: 0.75rem; }
+    .bracha-cards.open { display: block; }
+
+    /* Card */
+    .card {
+      border: 1px solid #e0e0e0;
+      border-radius: 7px;
+      padding: 0.85rem 1rem;
+      margin-bottom: 0.75rem;
+      position: relative;
+      background: #fafafa;
+    }
+    .card.approved  { border-left: 4px solid #4caf50; }
+    .card.unapproved{ border-left: 4px solid #ff9800; }
+
+    .card-text { font-size: 0.95rem; line-height: 1.55; margin-bottom: 0.6rem; }
+    .card-source { font-size: 0.78rem; color: #666; margin-bottom: 0.55rem; }
+    .card-source a { color: #2c5f2e; text-decoration: none; }
+    .card-source a:hover { text-decoration: underline; }
+
+    .card-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.55rem; }
+    .tag {
+      font-size: 0.7rem; padding: 0.15rem 0.5rem;
+      border-radius: 99px; background: #e8f5e9; color: #2c5f2e; border: 1px solid #a5d6a7;
+    }
+    .tag.mood        { background: #e3f2fd; color: #1565c0; border-color: #90caf9; }
+    .tag.depth       { background: #fce4ec; color: #880e4f; border-color: #f48fb1; }
+    .tag.source-type { background: #fff3e0; color: #e65100; border-color: #ffcc80; }
+    .tag.occasion    { background: #f3e5f5; color: #6a1b9a; border-color: #ce93d8; }
+    .tag.unapproved  { background: #fff8e1; color: #f57f17; border-color: #ffe082; }
+    .tag.approved    { background: #e8f5e9; color: #1b5e20; border-color: #a5d6a7; }
+
+    .card-meta { font-size: 0.72rem; color: #999; }
+
+    .card-actions { display: flex; gap: 0.5rem; margin-top: 0.5rem; }
+    .btn {
+      padding: 0.3rem 0.8rem; font-size: 0.8rem; border: none;
+      border-radius: 5px; cursor: pointer; font-weight: 500;
+      transition: opacity 0.15s;
+    }
+    .btn:hover { opacity: 0.85; }
+    .btn-approve { background: #4caf50; color: #fff; }
+    .btn-reject  { background: #ff9800; color: #fff; }
+
+    /* Empty state */
+    .empty {
+      padding: 2rem;
+      text-align: center;
+      color: #aaa;
+      font-size: 0.9rem;
+    }
+
+    /* Loading spinner */
+    .spinner {
+      display: inline-block;
+      width: 18px; height: 18px;
+      border: 3px solid #ccc;
+      border-top-color: #2c5f2e;
+      border-radius: 50%;
+      animation: spin 0.7s linear infinite;
+      vertical-align: middle;
+      margin-right: 0.4rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    #status { padding: 0.5rem 0; font-size: 0.85rem; color: #555; min-height: 1.5rem; }
+  </style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>🕍 Bracha Kavana</h1>
+    <p>Kártya böngésző &amp; jóváhagyó felület</p>
+  </div>
+</header>
+
+<div class="container">
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <h2>Szűrők</h2>
+
+    <div class="filter-group">
+      <label for="filter-approved">Állapot</label>
+      <select id="filter-approved">
+        <option value="">Minden kártya</option>
+        <option value="true">Csak jóváhagyott</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-mood">Hangulat</label>
+      <select id="filter-mood">
+        <option value="">Összes</option>
+        <option value="gratitude">Hála (gratitude)</option>
+        <option value="request">Kérés (request)</option>
+        <option value="awe">Áhítat (awe)</option>
+        <option value="struggle">Küzdelem (struggle)</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-source-type">Forrástípus</label>
+      <select id="filter-source-type">
+        <option value="">Összes</option>
+        <option value="chassidic">Chaszidikus</option>
+        <option value="mussar">Musszár</option>
+        <option value="modern">Modern</option>
+        <option value="personal">Személyes</option>
+      </select>
+    </div>
+
+    <div class="filter-group">
+      <label for="filter-search">Keresés (forrás / szöveg)</label>
+      <input type="text" id="filter-search" placeholder="pl. Tanya…" />
+    </div>
+
+    <hr style="margin: 0.75rem 0; border-color: #eee;" />
+    <h2>Kategóriák</h2>
+    <ul class="cat-list" id="cat-list">
+      <li class="active" data-cat="">Összes kategória</li>
+    </ul>
+  </aside>
+
+  <!-- Main -->
+  <main class="main" id="main">
+    <div id="status"><span class="spinner"></span>Betöltés…</div>
+    <div id="cards-container"></div>
+  </main>
+</div>
+
+<script>
+// ─── Config ──────────────────────────────────────────────────────────────────
+const API = window.location.origin + '/api';
+
+// ─── State ───────────────────────────────────────────────────────────────────
+let state = {
+  category: '',
+  mood: '',
+  sourceType: '',
+  approvedOnly: false,
+  search: '',
+  brachot: [],
+  cards: [],
+};
+
+// ─── Helpers ─────────────────────────────────────────────────────────────────
+async function apiFetch(path) {
+  const resp = await fetch(API + path);
+  if (!resp.ok) throw new Error(`API error ${resp.status}: ${path}`);
+  return resp.json();
+}
+
+async function apiPatch(path) {
+  const resp = await fetch(API + path, { method: 'PATCH' });
+  if (!resp.ok) throw new Error(`API error ${resp.status}: ${path}`);
+  return resp.json();
+}
+
+function setStatus(msg) {
+  document.getElementById('status').innerHTML = msg;
+}
+
+// ─── Load data ────────────────────────────────────────────────────────────────
+async function loadCategories() {
+  const cats = await apiFetch('/categories');
+  const list = document.getElementById('cat-list');
+  cats.forEach(cat => {
+    const li = document.createElement('li');
+    li.dataset.cat = cat;
+    li.textContent = cat.replace(/_/g, ' ');
+    li.addEventListener('click', () => selectCategory(cat, li));
+    list.appendChild(li);
+  });
+}
+
+async function loadData() {
+  setStatus('<span class="spinner"></span>Kártyák betöltése…');
+  try {
+    const params = new URLSearchParams();
+    if (state.category)   params.set('category', state.category);
+    if (state.mood)       params.set('mood', state.mood);
+    if (state.sourceType) params.set('source_type', state.sourceType);
+    if (state.approvedOnly) params.set('approved_only', 'true');
+
+    const [brachot, cards] = await Promise.all([
+      apiFetch('/brachot' + (state.category ? `?category=${state.category}` : '')),
+      apiFetch('/cards?' + params.toString()),
+    ]);
+
+    state.brachot = brachot;
+    state.cards = cards;
+    renderCards();
+    setStatus(`${cards.length} kártya, ${brachot.length} áldás`);
+  } catch (err) {
+    setStatus(`⚠ Hiba: ${err.message}`);
+    console.error(err);
+  }
+}
+
+// ─── Rendering ───────────────────────────────────────────────────────────────
+function renderCards() {
+  const container = document.getElementById('cards-container');
+  container.innerHTML = '';
+
+  const search = state.search.toLowerCase();
+
+  // Group cards by bracha_id
+  const byBracha = {};
+  state.cards.forEach(card => {
+    if (search && !cardMatchesSearch(card, search)) return;
+    if (!byBracha[card.bracha_id]) byBracha[card.bracha_id] = [];
+    byBracha[card.bracha_id].push(card);
+  });
+
+  const brachaMap = {};
+  state.brachot.forEach(b => { brachaMap[b.id] = b; });
+
+  let totalVisible = 0;
+
+  // Render in bracha order
+  state.brachot.forEach(bracha => {
+    const cards = byBracha[bracha.id];
+    if (!cards || cards.length === 0) return;
+
+    totalVisible += cards.length;
+    const group = document.createElement('div');
+    group.className = 'bracha-group';
+
+    const header = document.createElement('div');
+    header.className = 'bracha-header';
+    header.innerHTML = `
+      <div>
+        <span class="heb">${escapeHtml(bracha.name_hebrew || '')}</span>
+        &nbsp;
+        <span style="color:#555;font-size:.85rem">${escapeHtml(bracha.name_hungarian || bracha.id)}</span>
+      </div>
+      <span class="toggle">${cards.length} kártya ▾</span>
+    `;
+    const cardsDiv = document.createElement('div');
+    cardsDiv.className = 'bracha-cards open';
+
+    header.addEventListener('click', () => {
+      cardsDiv.classList.toggle('open');
+      header.querySelector('.toggle').textContent =
+        (cardsDiv.classList.contains('open') ? '▾' : '▸') + ` ${cards.length} kártya`;
+    });
+
+    cards.forEach(card => {
+      cardsDiv.appendChild(renderCard(card));
+    });
+
+    group.appendChild(header);
+    group.appendChild(cardsDiv);
+    container.appendChild(group);
+  });
+
+  if (totalVisible === 0) {
+    container.innerHTML = '<div class="empty">Nincs megjelenítendő kártya.</div>';
+  }
+}
+
+function cardMatchesSearch(card, search) {
+  return (
+    (card.text_content || '').toLowerCase().includes(search) ||
+    (card.source_name  || '').toLowerCase().includes(search) ||
+    (card.source_ref   || '').toLowerCase().includes(search)
+  );
+}
+
+function renderCard(card) {
+  const div = document.createElement('div');
+  div.className = 'card ' + (card.approved ? 'approved' : 'unapproved');
+  div.id = `card-${card.id}`;
+
+  const sourceLink = card.source_url
+    ? `<a href="${escapeHtml(card.source_url)}" target="_blank" rel="noopener">${escapeHtml(card.source_name)} — ${escapeHtml(card.source_ref || '')}</a>`
+    : `${escapeHtml(card.source_name || '')} ${escapeHtml(card.source_ref || '')}`;
+
+  const tags = [
+    card.mood        ? `<span class="tag mood">${escapeHtml(card.mood)}</span>` : '',
+    card.depth_level ? `<span class="tag depth">${escapeHtml(card.depth_level)}</span>` : '',
+    card.source_type ? `<span class="tag source-type">${escapeHtml(card.source_type)}</span>` : '',
+    card.occasion    ? `<span class="tag occasion">${escapeHtml(card.occasion)}</span>` : '',
+    `<span class="tag ${card.approved ? 'approved' : 'unapproved'}">${card.approved ? '✓ jóváhagyva' : '⏳ felülvizsgálat alatt'}</span>`,
+  ].filter(Boolean).join('');
+
+  const conf = card.confidence != null ? `Konfidencia: ${(card.confidence * 100).toFixed(0)}%` : '';
+
+  div.innerHTML = `
+    <p class="card-text">${escapeHtml(card.text_content || '')}</p>
+    <p class="card-source">📖 ${sourceLink}</p>
+    <div class="card-tags">${tags}</div>
+    <p class="card-meta">${conf}</p>
+    <div class="card-actions">
+      <button class="btn btn-approve" onclick="approveCard(${card.id}, true)">✓ Jóváhagyás</button>
+      <button class="btn btn-reject"  onclick="approveCard(${card.id}, false)">✗ Visszautasítás</button>
+    </div>
+  `;
+  return div;
+}
+
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ─── Actions ─────────────────────────────────────────────────────────────────
+async function approveCard(cardId, approve) {
+  try {
+    const action = approve ? 'approve' : 'reject';
+    const result = await apiPatch(`/cards/${cardId}/${action}`);
+    // Update in state
+    const card = state.cards.find(c => c.id === cardId);
+    if (card) card.approved = result.approved;
+    // Re-render just this card
+    const el = document.getElementById(`card-${cardId}`);
+    if (el) {
+      const updated = state.cards.find(c => c.id === cardId);
+      if (updated) el.replaceWith(renderCard(updated));
+    }
+  } catch (err) {
+    alert('Hiba: ' + err.message);
+  }
+}
+
+function selectCategory(cat, li) {
+  state.category = cat;
+  document.querySelectorAll('#cat-list li').forEach(el => el.classList.remove('active'));
+  li.classList.add('active');
+  loadData();
+}
+
+// ─── Filter listeners ─────────────────────────────────────────────────────────
+document.getElementById('filter-approved').addEventListener('change', e => {
+  state.approvedOnly = e.target.value === 'true';
+  loadData();
+});
+document.getElementById('filter-mood').addEventListener('change', e => {
+  state.mood = e.target.value;
+  loadData();
+});
+document.getElementById('filter-source-type').addEventListener('change', e => {
+  state.sourceType = e.target.value;
+  loadData();
+});
+let searchDebounce;
+document.getElementById('filter-search').addEventListener('input', e => {
+  clearTimeout(searchDebounce);
+  searchDebounce = setTimeout(() => {
+    state.search = e.target.value.trim();
+    renderCards();  // client-side only
+  }, 300);
+});
+
+// ─── Init ─────────────────────────────────────────────────────────────────────
+(async () => {
+  try {
+    await loadCategories();
+    await loadData();
+  } catch (err) {
+    setStatus('⚠ Nem sikerült csatlakozni a háttérrendszerhez. Fut a szerver? (uvicorn backend.main:app)');
+    console.error(err);
+  }
+})();
+</script>
+</body>
+</html>

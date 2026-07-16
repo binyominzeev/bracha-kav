@@ -1,0 +1,20 @@
+# ─── Core runtime ─────────────────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.29.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+urllib3>=2.0.0
+
+# ─── AI providers (install only what you use) ──────────────────────────────────
+# OpenAI
+openai>=1.30.0
+
+# Anthropic
+anthropic>=0.28.0
+
+# Google Gemini
+google-generativeai>=0.7.0
+
+# ─── Token estimation (Stage 3) ───────────────────────────────────────────────
+# tiktoken is optional; the estimator falls back to char/4 heuristic if absent
+tiktoken>=0.7.0

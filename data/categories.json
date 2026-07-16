@@ -1,0 +1,375 @@
+{
+  "categories": [
+    {
+      "id": "birkot_hashachar",
+      "name_hebrew": "ברכות השחר",
+      "name_hungarian": "Reggeli áldások",
+      "description": "Morning blessings recited upon waking and beginning the day",
+      "brachot": [
+        {
+          "id": "modeh_ani",
+          "name_hebrew": "מודה אני",
+          "name_hungarian": "Modeh Ani",
+          "sefaria_refs": ["Modeh Ani"],
+          "keywords": ["modeh ani", "gratitude", "awakening", "morning", "soul", "נשמה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "asher_yatzar",
+          "name_hebrew": "אשר יצר",
+          "name_hungarian": "Asher Yatzar",
+          "sefaria_refs": ["Asher Yatzar"],
+          "keywords": ["asher yatzar", "body", "health", "creation", "אשר יצר"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "elokai_neshama",
+          "name_hebrew": "אלוקי נשמה",
+          "name_hungarian": "Elokai Neshama",
+          "sefaria_refs": ["Berakhot 60b"],
+          "keywords": ["elokai neshama", "soul", "pure", "נשמה", "אלוקי נשמה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "birkat_hatorah",
+          "name_hebrew": "ברכת התורה",
+          "name_hungarian": "Birkat HaTorah",
+          "sefaria_refs": ["Berakhot 11b"],
+          "keywords": ["birkat hatorah", "torah blessing", "learning", "ברכת התורה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "birkot_hashachar_general",
+          "name_hebrew": "ברכות השחר הכלליות",
+          "name_hungarian": "Általános reggeli áldások",
+          "sefaria_refs": ["Berakhot 60b"],
+          "keywords": [
+            "morning blessings", "rooster", "sight", "freedom", "clothing",
+            "ברכות השחר", "נותן לשכוי בינה", "פוקח עיוורים"
+          ],
+          "frequency_tier": "daily"
+        }
+      ]
+    },
+    {
+      "id": "pesukei_dezimra",
+      "name_hebrew": "פסוקי דזמרה",
+      "name_hungarian": "Pesukei D'Zimra",
+      "description": "Verses of praise — introductory Psalms and liturgical poems before Shacharit",
+      "brachot": [
+        {
+          "id": "baruch_sheamar",
+          "name_hebrew": "ברוך שאמר",
+          "name_hungarian": "Baruch She'amar",
+          "sefaria_refs": [],
+          "keywords": ["baruch sheamar", "creation", "praise", "ברוך שאמר"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "ashrei",
+          "name_hebrew": "אשרי",
+          "name_hungarian": "Ashrei",
+          "sefaria_refs": ["Psalms 145", "Psalms 84.5", "Psalms 144.15"],
+          "keywords": ["ashrei", "happiness", "praise", "acrostic", "אשרי", "תהלים קמה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "hallel_psalms",
+          "name_hebrew": "פרקי הלל",
+          "name_hungarian": "Hallél zsoltárok",
+          "sefaria_refs": ["Psalms 146", "Psalms 147", "Psalms 148", "Psalms 149", "Psalms 150"],
+          "keywords": ["hallelujah", "praise", "hallel", "הללויה", "תהלים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "yishtabach",
+          "name_hebrew": "ישתבח",
+          "name_hungarian": "Yishtabach",
+          "sefaria_refs": [],
+          "keywords": ["yishtabach", "praise", "ישתבח", "שבח"],
+          "frequency_tier": "daily"
+        }
+      ]
+    },
+    {
+      "id": "shema_and_blessings",
+      "name_hebrew": "קריאת שמע וברכותיה",
+      "name_hungarian": "Smá és áldásai",
+      "description": "The Shema and its surrounding blessings",
+      "brachot": [
+        {
+          "id": "yotzer_or",
+          "name_hebrew": "יוצר אור",
+          "name_hungarian": "Yotzer Or",
+          "sefaria_refs": ["Berakhot 11b"],
+          "keywords": ["yotzer or", "light", "creation", "יוצר אור", "אור"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "ahavah_rabbah",
+          "name_hebrew": "אהבה רבה",
+          "name_hungarian": "Ahavah Rabbah",
+          "sefaria_refs": ["Berakhot 11b"],
+          "keywords": ["ahavah rabbah", "love", "torah", "אהבה רבה", "אהבה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "shema",
+          "name_hebrew": "שמע ישראל",
+          "name_hungarian": "Smá Jiszráél",
+          "sefaria_refs": ["Deuteronomy 6:4-9", "Deuteronomy 11:13-21", "Numbers 15:37-41"],
+          "keywords": ["shema", "unity", "God", "שמע ישראל", "אחד"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "emet_veyatziv",
+          "name_hebrew": "אמת ויציב",
+          "name_hungarian": "Emet V'yatziv",
+          "sefaria_refs": ["Berakhot 12a"],
+          "keywords": ["emet veyatziv", "truth", "redemption", "אמת ויציב", "גאולה"],
+          "frequency_tier": "daily"
+        }
+      ]
+    },
+    {
+      "id": "amidah",
+      "name_hebrew": "עמידה",
+      "name_hungarian": "Ámidá (Tizennyolc)",
+      "description": "The Amidah — nineteen blessings of the standing prayer",
+      "brachot": [
+        {
+          "id": "avot",
+          "name_hebrew": "אבות",
+          "name_hungarian": "Ávot (Ősatyák)",
+          "sefaria_refs": ["Berakhot 26b"],
+          "keywords": ["avot", "patriarchs", "Abraham", "Isaac", "Jacob", "אבות", "אברהם"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "gevurot",
+          "name_hebrew": "גבורות",
+          "name_hungarian": "Gevurót (Hatalom)",
+          "sefaria_refs": ["Berakhot 33a"],
+          "keywords": ["gevurot", "rain", "resurrection", "power", "גבורות", "תחיית המתים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "kedushah",
+          "name_hebrew": "קדושת השם",
+          "name_hungarian": "Kedusat HaSém",
+          "sefaria_refs": ["Berakhot 33a", "Isaiah 6:3"],
+          "keywords": ["kedushah", "holiness", "holy", "קדושה", "קדוש"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "binah",
+          "name_hebrew": "בינה",
+          "name_hungarian": "Biná (Megértés)",
+          "sefaria_refs": [],
+          "keywords": ["binah", "wisdom", "understanding", "בינה", "דעת"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "teshuvah",
+          "name_hebrew": "תשובה",
+          "name_hungarian": "Tsuvá (Visszatérés)",
+          "sefaria_refs": ["Berakhot 34b"],
+          "keywords": ["teshuvah", "repentance", "return", "תשובה", "חזרה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "selichah",
+          "name_hebrew": "סליחה",
+          "name_hungarian": "Szlichá (Megbocsátás)",
+          "sefaria_refs": [],
+          "keywords": ["selichah", "forgiveness", "pardon", "סליחה", "מחילה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "geulah",
+          "name_hebrew": "גאולה",
+          "name_hungarian": "Geulá (Megváltás)",
+          "sefaria_refs": ["Berakhot 49a"],
+          "keywords": ["geulah", "redemption", "גאולה", "גואל"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "refuah",
+          "name_hebrew": "רפואה",
+          "name_hungarian": "Refuá (Gyógyulás)",
+          "sefaria_refs": ["Berakhot 34b"],
+          "keywords": ["refuah", "healing", "health", "רפואה", "רפא"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "birkat_hashanim",
+          "name_hebrew": "ברכת השנים",
+          "name_hungarian": "Birkat HaSánim (Az évek áldása)",
+          "sefaria_refs": ["Taanit 2a"],
+          "keywords": ["birkat hashanim", "rain", "seasons", "abundance", "ברכת השנים", "גשם"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "kibbutz_galuyot",
+          "name_hebrew": "קיבוץ גלויות",
+          "name_hungarian": "Kibbuc Galujót (Száműzöttek összegyűjtése)",
+          "sefaria_refs": ["Isaiah 11:12"],
+          "keywords": ["kibbutz galuyot", "ingathering", "exile", "קיבוץ גלויות", "גלות"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "din",
+          "name_hebrew": "דין",
+          "name_hungarian": "Din (Igazságszolgáltatás)",
+          "sefaria_refs": [],
+          "keywords": ["din", "justice", "judgment", "דין", "משפט"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "birkat_haminim",
+          "name_hebrew": "ברכת המינים",
+          "name_hungarian": "Birkat HaMinim",
+          "sefaria_refs": ["Berakhot 28b-29a"],
+          "keywords": ["birkat haminim", "heretics", "informers", "ברכת המינים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "tzadikim",
+          "name_hebrew": "צדיקים",
+          "name_hungarian": "Cáddikim (Igazak)",
+          "sefaria_refs": [],
+          "keywords": ["tzadikim", "righteous", "sages", "צדיקים", "חסידים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "binyan_yerushalayim",
+          "name_hebrew": "בניין ירושלים",
+          "name_hungarian": "Binján Jeruzálem (Jeruzsálem felépítése)",
+          "sefaria_refs": ["Psalms 51:20"],
+          "keywords": ["binyan yerushalayim", "Jerusalem", "Temple", "בניין ירושלים", "ירושלים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "mashiach",
+          "name_hebrew": "מלכות בית דוד",
+          "name_hungarian": "Másiach (Dávid háza)",
+          "sefaria_refs": ["Psalms 132:17"],
+          "keywords": ["mashiach", "David", "messiah", "מלכות בית דוד", "משיח"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "shema_koleinu",
+          "name_hebrew": "שמע קולנו",
+          "name_hungarian": "Smá Kolénu (Hallgasd meg hangunkat)",
+          "sefaria_refs": [],
+          "keywords": ["shema koleinu", "prayer", "hear", "שמע קולנו", "תפילה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "avodah",
+          "name_hebrew": "עבודה",
+          "name_hungarian": "Avodá (Szolgálat)",
+          "sefaria_refs": ["Berakhot 17a"],
+          "keywords": ["avodah", "service", "temple", "עבודה", "שכינה"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "hodaah",
+          "name_hebrew": "הודאה",
+          "name_hungarian": "Hodaá (Hálaadás / Modim)",
+          "sefaria_refs": ["Berakhot 34a"],
+          "keywords": ["hodaah", "modim", "gratitude", "thanks", "הודאה", "מודים"],
+          "frequency_tier": "daily"
+        },
+        {
+          "id": "shalom",
+          "name_hebrew": "שלום",
+          "name_hungarian": "Sálom (Béke)",
+          "sefaria_refs": ["Numbers 6:24-26"],
+          "keywords": ["shalom", "peace", "blessing", "שלום", "שים שלום"],
+          "frequency_tier": "daily"
+        }
+      ]
+    },
+    {
+      "id": "daily_blessings",
+      "name_hebrew": "ברכות יומיות",
+      "name_hungarian": "Mindennapi áldások",
+      "description": "Blessings over food, drink, and special occasions",
+      "brachot": [
+        {
+          "id": "hamotzi",
+          "name_hebrew": "המוציא",
+          "name_hungarian": "HáMoci (Kenyér)",
+          "sefaria_refs": ["Berakhot 38a"],
+          "keywords": ["hamotzi", "bread", "lechem", "המוציא", "לחם"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "mezonot",
+          "name_hebrew": "מזונות",
+          "name_hungarian": "Mézonot (Gabonafélék)",
+          "sefaria_refs": ["Berakhot 37a"],
+          "keywords": ["mezonot", "grain", "cake", "מזונות", "עץ מיני"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "hagafen",
+          "name_hebrew": "הגפן",
+          "name_hungarian": "HaGáfen (Bor)",
+          "sefaria_refs": ["Berakhot 35a"],
+          "keywords": ["hagafen", "wine", "grape", "הגפן", "יין"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "haadamah",
+          "name_hebrew": "האדמה",
+          "name_hungarian": "HaAdáma (Földi termékek)",
+          "sefaria_refs": ["Berakhot 35a"],
+          "keywords": ["haadamah", "ground", "vegetables", "האדמה", "פירות"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "haetz",
+          "name_hebrew": "העץ",
+          "name_hungarian": "HaÉc (Fagyümölcs)",
+          "sefaria_refs": ["Berakhot 36a"],
+          "keywords": ["haetz", "tree", "fruit", "העץ", "פרי"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "shehakol",
+          "name_hebrew": "שהכל",
+          "name_hungarian": "Séhakol (Minden más)",
+          "sefaria_refs": ["Berakhot 38b"],
+          "keywords": ["shehakol", "general", "everything", "שהכל", "נהיה"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "birkat_hamazon",
+          "name_hebrew": "ברכת המזון",
+          "name_hungarian": "Birkat HaMázon (Étkezés utáni ima)",
+          "sefaria_refs": ["Berakhot 48b", "Deuteronomy 8:10"],
+          "keywords": ["birkat hamazon", "grace after meals", "ברכת המזון", "נזן"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "netilat_yadayim",
+          "name_hebrew": "נטילת ידיים",
+          "name_hungarian": "Netilat Jádájim (Kézmosás)",
+          "sefaria_refs": ["Berakhot 60b"],
+          "keywords": ["netilat yadayim", "handwashing", "purity", "נטילת ידיים"],
+          "frequency_tier": "frequent"
+        },
+        {
+          "id": "shehecheyanu",
+          "name_hebrew": "שהחיינו",
+          "name_hungarian": "Séhéchejánu (Hálás az életért)",
+          "sefaria_refs": ["Berakhot 54a"],
+          "keywords": ["shehecheyanu", "gratitude", "new season", "שהחיינו", "חיינו"],
+          "frequency_tier": "occasional"
+        }
+      ]
+    }
+  ]
+}
