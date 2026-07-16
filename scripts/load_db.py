@@ -37,14 +37,20 @@ logging.basicConfig(
 log = logging.getLogger(__name__)
 
 
+_KNOWN_TABLES = frozenset({"brachot", "cards", "user_swipes", "user_preferences"})
+
+
 def apply_schema(conn: sqlite3.Connection, *, reset: bool = False) -> None:
     if reset:
         log.warning("--reset: dropping all tables")
         cur = conn.cursor()
         cur.execute("SELECT name FROM sqlite_master WHERE type='table'")
-        tables = [row[0] for row in cur.fetchall()]
-        for table in tables:
-            cur.execute(f"DROP TABLE IF EXISTS {table}")
+        db_tables = [row[0] for row in cur.fetchall()]
+        for table in db_tables:
+            # Only drop tables we own; skip SQLite internals (e.g. sqlite_sequence)
+            if table in _KNOWN_TABLES:
+                # Table name is validated against a whitelist — safe to interpolate
+                cur.execute(f"DROP TABLE IF EXISTS {table}")  # noqa: S608
         conn.commit()
 
     schema_sql = SCHEMA_FILE.read_text(encoding="utf-8")

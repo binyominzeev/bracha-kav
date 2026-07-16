@@ -385,10 +385,14 @@ function renderCard(card) {
     <div class="card-tags">${tags}</div>
     <p class="card-meta">${conf}</p>
     <div class="card-actions">
-      <button class="btn btn-approve" onclick="approveCard(${card.id}, true)">✓ Jóváhagyás</button>
-      <button class="btn btn-reject"  onclick="approveCard(${card.id}, false)">✗ Visszautasítás</button>
+      <button class="btn btn-approve">✓ Jóváhagyás</button>
+      <button class="btn btn-reject">✗ Visszautasítás</button>
     </div>
   `;
+  // Use addEventListener instead of inline onclick to avoid string interpolation
+  const cardId = Number(card.id);
+  div.querySelector('.btn-approve').addEventListener('click', () => approveCard(cardId, true));
+  div.querySelector('.btn-reject').addEventListener('click', () => approveCard(cardId, false));
   return div;
 }
 

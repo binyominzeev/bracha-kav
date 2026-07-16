@@ -148,8 +148,10 @@ def build_prompt(raw_data: dict[str, Any]) -> str:
             source_summary_parts.append(
                 f"Search results for '{kw}':\n"
                 + "\n".join(
-                    f"  - {h.get('_source', {}).get('ref', '?')}: "
-                    f"{h.get('_source', {}).get('content', '')[:150]}"
+                    "  - {ref}: {content}".format(
+                        ref=h.get("_source", {}).get("ref", "?"),
+                        content=h.get("_source", {}).get("content", "")[:150],
+                    )
                     for h in hits
                 )
             )

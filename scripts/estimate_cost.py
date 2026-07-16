@@ -194,7 +194,7 @@ def print_breakdown(
         grand_cost_extrap = grand_cost
 
     print(f"\nSampled tokens:  {grand_tokens:>12,}")
-    if is_sample:
+    if is_sample and len(rows) > 0:
         print(f"Extrapolated:    {grand_tokens_extrap:>12,}  (×{total_brachot / len(rows):.1f})")
     print(f"\nEstimated cost:  ${grand_cost_extrap:.4f}")
     if pricing:
