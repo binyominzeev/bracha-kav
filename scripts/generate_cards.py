@@ -20,13 +20,19 @@ from __future__ import annotations
 import argparse
 import json
 import logging
+import os
 import sys
 from pathlib import Path
 from typing import Any
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
-RAW_DIR = REPO_ROOT / "data" / "raw"
+
+# Allow `python scripts/generate_cards.py` to import top-level packages.
+if str(REPO_ROOT) not in sys.path:
+    sys.path.insert(0, str(REPO_ROOT))
+
+RAW_DIR = REPO_ROOT / "data" / "filtered"
 CARDS_DIR = REPO_ROOT / "data" / "cards"
 CATEGORIES_FILE = REPO_ROOT / "data" / "categories.json"
 
@@ -284,6 +290,13 @@ def main() -> None:
     if not CATEGORIES_FILE.exists():
         log.error("categories.json not found at %s", CATEGORIES_FILE)
         sys.exit(1)
+
+    # Load environment variables from .env if present.
+    try:
+        from dotenv import load_dotenv  # type: ignore[import]
+        load_dotenv(REPO_ROOT / ".env")
+    except ImportError:
+        log.debug("python-dotenv not installed; using process environment only")
 
     # Lazy import so missing API keys don't block --help
     from ai_providers import get_provider  # noqa: PLC0415
