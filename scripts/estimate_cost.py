@@ -29,7 +29,7 @@ from typing import Any
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 REPO_ROOT = Path(__file__).resolve().parent.parent
-RAW_DIR = REPO_ROOT / "data" / "raw"
+RAW_DIR = REPO_ROOT / "data" / "filtered"  # raw Sefaria JSON (Stage 1)
 CATEGORIES_FILE = REPO_ROOT / "data" / "categories.json"
 
 logging.basicConfig(

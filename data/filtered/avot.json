@@ -1,0 +1,2536 @@
+{
+  "bracha_id": "avot",
+  "category_id": "amidah",
+  "name_hebrew": "אבות",
+  "name_hungarian": "Ávot (Ősatyák)",
+  "keywords": [
+    "avot",
+    "patriarchs",
+    "Abraham",
+    "Isaac",
+    "Jacob",
+    "אבות",
+    "אברהם"
+  ],
+  "primary_text": [
+    {
+      "ref": "Berakhot 26b",
+      "he_ref": "ברכות כ״ו ב",
+      "paragraphs": [
+        "On a similar note, the Sages taught in a baraita: One who erred and did not recite the afternoon prayer on the eve of Shabbat, prays in the evening prayer two Amida prayers on Shabbat evening. One who erred and did not recite the afternoon prayer on Shabbat, recites two weekday Amida prayers in the evening prayer at the conclusion of Shabbat. He recites havdala [the prayer of distinction] between the sanctity of Shabbat and the profanity of the week by reciting: You have graced us, etc., in the fourth blessing of the Amida, which is: Who graciously grants knowledge, in the first prayer, as it is the actual evening prayer, but he does not recite havdala in the second prayer, which is in place of the afternoon prayer. Moreover, if he recited havdala in the second prayer and did not recite havdala in the first, the second prayer fulfilled his obligation, the first one did not fulfill his obligation.",
+        "The Gemara comments: Is that to say that since he did not recite havdala in the first prayer, he is as one who did not pray and we require him to return to the beginning of the prayer and repeat it? If so, the conclusion is that one who fails to recite havdala in the prayer must repeat that prayer.",
+        "The Gemara raises a contradiction to the above conclusion from the Tosefta: One who erred and did not mention the might of the rains: He makes the wind blow and rain fall in the second blessing of the Amida, the blessing on the revival of the dead, and one who erred and failed to recite the request for rain in the ninth blessing of the Amida, the blessing of the years, we require him to return to the beginning of the prayer and repeat it. However, one who erred and failed to recite havdala in the blessing: Who graciously grants knowledge, we do not require him to return to the beginning of the prayer and repeat it, as he can recite havdala over the cup of wine, independent of his prayer. This contradiction was not resolved and remains difficult.",
+        "The dispute between the Rabbis and Rabbi Yehuda with regard to the times beyond which the different prayers may not be recited is rooted in a profound disagreement, also manifest in a later amoraic dispute. It was stated: Rabbi Yosei, son of Rabbi Ḥanina, said: The practice of praying three times daily is ancient, albeit not in its present form; prayers were instituted by the Patriarchs. However, Rabbi Yehoshua ben Levi said that the prayers were instituted based on the daily offerings sacrificed in the Holy Temple, and the prayers parallel the offerings, in terms of both time and characteristics.",
+        "The Gemara comments: It was taught in a baraita in accordance with the opinion of Rabbi Yosei, son of Rabbi Ḥanina, and it was taught in a baraita in accordance with the opinion of Rabbi Yehoshua ben Levi. The Gemara elaborates: It was taught in a baraita in accordance with the opinion of Rabbi Yosei, son of Rabbi Ḥanina: Abraham instituted the morning prayer, as it is stated when Abraham came to look out over Sodom the day after he had prayed on its behalf: “And Abraham rose early in the morning to the place where he had stood before the Lord” (Genesis 19:27), and from the context as well as the language utilized in the verse, the verb standing means nothing other than prayer, as this language is used to describe Pinehas’ prayer after the plague, as it is stated: “And Pinehas stood up and prayed and the plague ended” (Psalms 106:30). Clearly, Abraham was accustomed to stand in prayer in the morning.",
+        "Isaac instituted the afternoon prayer, as it is stated: “And Isaac went out to converse [lasuaḥ] in the field toward evening” (Genesis 24:63), and conversation means nothing other than prayer, as it is stated: “A prayer of the afflicted when he is faint and pours out his complaint [siḥo] before the Lord” (Psalms 102:1). Obviously, Isaac was the first to pray as evening approached, at the time of the afternoon prayer.",
+        "Jacob instituted the evening prayer, as it is stated: “And he encountered [vayifga] the place and he slept there for the sun had set” (Genesis 28:11). The word encounter means nothing other than prayer, as it is stated when God spoke to Jeremiah: “And you, do not pray on behalf of this nation and do not raise on their behalf song and prayer, and do not encounter [tifga] Me for I do not hear you” (Jeremiah 7:16). Jacob prayed during the evening, after the sun had set.",
+        "And it was taught in a baraita in accordance with the opinion of Rabbi Yehoshua ben Levi that the laws of prayer are based on the laws of the daily offerings: Why did the Rabbis say that the morning prayer may be recited until noon? Because, although the daily morning offering is typically brought early in the morning, it may be sacrificed until noon. And Rabbi Yehuda says: My opinion, that the morning prayer may be recited until four hours into the day, is because the daily morning offering is sacrificed until four hours.",
+        "And why did the Rabbis say that the afternoon prayer may be recited until the evening? Because the daily afternoon offering is sacrificed until the evening. Rabbi Yehuda says that the afternoon prayer may be recited only until the midpoint of the afternoon because, according to his opinion, the daily afternoon offering is sacrificed until the midpoint of the afternoon.",
+        "And why did they say that the evening prayer is not fixed? Because the burning of the limbs and fats of the offerings that were not consumed by the fire on the altar until the evening. They remained on the altar and were offered continuously throughout the entire night.",
+        "And why did the Rabbis say that the additional prayer may be recited all day? Because the additional offering is brought throughout the entire day. However, Rabbi Yehuda says that the additional prayer may be recited until the seventh hour of the day, because the additional offering is sacrificed until the seventh hour.",
+        "The baraita continues and states that there are two times for the afternoon prayer. Greater, earlier minḥa [minḥa gedola] and lesser, later minḥa [minḥa ketana]. The Gemara clarifies the difference between them: Which is minḥa gedola? From six-and-a-half hours after sunrise and on, which is a half an hour after noon and on. It is the earliest time that the daily afternoon offering may be sacrificed, as in the case on the eve of Passover that occurs on Shabbat. Which is minḥa ketana? From nine-and-a-half hours and on, which is the standard time that the daily afternoon offering is sacrificed.",
+        "On that note, a dilemma was raised before them: Rabbi Yehuda, who holds that the afternoon prayer may be recited only until the midpoint of the afternoon, does he say the midpoint of the first minḥa, minḥa gedola? Or, does he say the midpoint of the last minḥa? Come and hear an explicit resolution to this dilemma: As it was taught in a baraita, Rabbi Yehuda says: They said the midpoint of the last minḥa, and that is eleven hours minus a quarter of an hour after sunrise, i.e., an hour-and-a-quarter hours before sunset.",
+        "In any case, it is clear that according to this baraita the halakhot of prayer are based on the Temple offerings. The Gemara suggests: Let us say that this is a conclusive refutation of the opinion of Rabbi Yosei, son of Rabbi Ḥanina, who held that the forefathers instituted the prayers. Rabbi Yosei, son of Rabbi Ḥanina, could have said to you: Actually, I will say to you that the Patriarchs instituted the prayers and the Sages based the times and characteristics of prayer on the Temple offerings, even though they do not stem from the same source. As, if you do not say so, that even Rabbi Yosei, son of Rabbi Ḥanina, would agree that the laws of offerings and those of prayers are related, then, according to Rabbi Yosei, son of Rabbi Ḥanina, who instituted the additional prayer? It is not one of the prayers instituted by the forefathers. Rather, even according to Rabbi Yosei, son of Rabbi Ḥanina, the prayers were instituted by the Patriarchs and the Sages based them on the laws of the offerings.",
+        "We learned in the mishna that Rabbi Yehuda says: The morning prayer may be recited until four hours of the day. A dilemma was raised before the yeshiva students: When Rabbi Yehuda says until, does he mean until and including the fourth hour, or, perhaps when he says “until” he means until and not including, in which case one may not pray during the fourth hour? Come and hear a resolution to this dilemma based on the mishna. Rabbi Yehuda says: The afternoon prayer may be recited only until the midpoint of the afternoon. Now, granted, if you say that until means until and not including, then there is a difference between the opinion of Rabbi Yehuda and the opinion of the Rabbis. However, if you say that until means until and including, then the opinion of Rabbi Yehuda"
+      ]
+    }
+  ],
+  "topic_descriptions": [
+    {
+      "title": "Jacob's Evening Encounter",
+      "text": "Jacob's encounter with God at sunset is seen as the origin of the evening prayer, Arvit. The Talmud in tractate Berakhot connects Jacob's biblical 'encounter' with the act of prayer, establishing a tradition that links evening prayer to this moment.",
+      "source": "Curation of the Sefaria Learning Team"
+    },
+    {
+      "title": "Jacob and the Evening Prayer",
+      "text": "Jacob is credited with instituting the evening prayer, a practice that continues to be a cornerstone of Jewish daily worship. The Talmud interprets the word 'encounter' in Genesis 28:11 and Jeremiah 7:16 to mean prayer, thereby teaching that Jacob established the evening prayer.",
+      "source": "Curation of the Sefaria Learning Team"
+    },
+    {
+      "title": "What Time is Musaf? ",
+      "text": "The windows of time during which Jewish prayers are recited is learned from the timing of when the corresponding sacrifices were offered in the ancient Temples. The Talmud in tractate Berakhot determines the timing of musaf, the additional prayer service for Shabbat and holidays, in relation to when the sacrifice was brought in the Temple. ",
+      "source": "Curation of the Sefaria Learning Team"
+    }
+  ],
+  "link_candidates_for_followup_fetch": [
+    {
+      "ref": "Peri Tzadik, Kuntres Amalah shel Torah 6:3",
+      "category": "Chasidut",
+      "title_en": "Peri Tzadik",
+      "title_he": "פרי צדיק",
+      "comp_date": [
+        1845,
+        1895
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Meshiv Tzedek, A Rebuttal Regarding Sitting in the Sukkah on Shemini Atzeret 48:3",
+      "category": "Chasidut",
+      "title_en": "Meshiv Tzedek",
+      "title_he": "משיב צדק",
+      "comp_date": [
+        1831,
+        1881
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Shenei Luchot HaBerit, Aseret HaDibrot, Tamid, Ner Mitzva 74",
+      "category": "Musar",
+      "title_en": "Shenei Luchot HaBerit",
+      "title_he": "שני לוחות הברית",
+      "comp_date": [
+        1611,
+        1631
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Gevurot Hashem 48:5",
+      "category": "Jewish Thought",
+      "title_en": "Gevurot Hashem",
+      "title_he": "גבורות השם",
+      "comp_date": [
+        1562,
+        1582
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Yismach Moshe, Vayera 5:1",
+      "category": "Chasidut",
+      "title_en": "Yismach Moshe",
+      "title_he": "ישמח משה",
+      "comp_date": [
+        1790,
+        1840
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Netivot Olam, Netiv Ha'Avodah 3:3",
+      "category": "Jewish Thought",
+      "title_en": "Netivot Olam",
+      "title_he": "נתיבות עולם",
+      "comp_date": [
+        1575,
+        1595
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Shenei Luchot HaBerit, Torah Shebikhtav, Shemot, Introduction 9",
+      "category": "Musar",
+      "title_en": "Shenei Luchot HaBerit",
+      "title_he": "שני לוחות הברית",
+      "comp_date": [
+        1611,
+        1631
+      ],
+      "has_english": true
+    },
+    {
+      "ref": "Peri Tzadik, Shoftim 11:1",
+      "category": "Chasidut",
+      "title_en": "Peri Tzadik",
+      "title_he": "פרי צדיק",
+      "comp_date": [
+        1845,
+        1895
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Peri Tzadik, Ha'Azinu 5:1",
+      "category": "Chasidut",
+      "title_en": "Peri Tzadik",
+      "title_he": "פרי צדיק",
+      "comp_date": [
+        1845,
+        1895
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Peri Tzadik, Vayera 5:1",
+      "category": "Chasidut",
+      "title_en": "Peri Tzadik",
+      "title_he": "פרי צדיק",
+      "comp_date": [
+        1845,
+        1895
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Shenei Luchot HaBerit, Vavei HaAmudim 9:1",
+      "category": "Musar",
+      "title_en": "Shenei Luchot HaBerit",
+      "title_he": "שני לוחות הברית",
+      "comp_date": [
+        1611,
+        1631
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Peri Tzadik, Chanukah 4:1",
+      "category": "Chasidut",
+      "title_en": "Peri Tzadik",
+      "title_he": "פרי צדיק",
+      "comp_date": [
+        1845,
+        1895
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Torat HaOlah, Part One 19:1",
+      "category": "Jewish Thought",
+      "title_en": "Torat HaOlah",
+      "title_he": "תורת העולה",
+      "comp_date": [
+        1560,
+        1570
+      ],
+      "has_english": true
+    },
+    {
+      "ref": "Shenei Luchot HaBerit, Aseret HaDibrot, Introduction 3",
+      "category": "Musar",
+      "title_en": "Shenei Luchot HaBerit",
+      "title_he": "שני לוחות הברית",
+      "comp_date": [
+        1611,
+        1631
+      ],
+      "has_english": false
+    },
+    {
+      "ref": "Likutei Moharan 44:3:1",
+      "category": "Chasidut",
+      "title_en": "Likutei Moharan",
+      "title_he": "ליקוטי מוהר\"ן",
+      "comp_date": [
+        1802,
+        1808
+      ],
+      "has_english": true
+    }
+  ],
+  "search_snippets": [
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 17 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "How is zekhut avot connected to Maase avot siman lebanim ?"
+    },
+    {
+      "source_id": "Rabbinic Authority II, Part I; Rabbinic Authority; The Vision, Chapter 5; The Status and Role of a To'ein Rabbani in the Beit Din Process 7 (Rabbinic Authority: The Vision and the Reality, Urim Publications. Jerusalem, 2013 [en])",
+      "snippet": "As Rashbatz exhorts the dayan , 14 Magen Avot , Avot 1:8."
+    },
+    {
+      "source_id": "Sukkah 32b:18 (Daf Shevui [en])",
+      "snippet": "A Tanna taught: A tree which is \"avot\" is valid, and which is not \"avot\" is not valid."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (The Yitzchak ben Gedalya haLevi Memorial Haggada [transliteration] [en])",
+      "snippet": "Sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz. Arba mi yodea'? Arba ani yodea. Arba imahot, sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (The Yitzchak ben Gedalya haLevi Memorial Haggada [transliteration] [en])",
+      "snippet": "Ḥamishah ani yodea. ḥamishah ḥumeshei Torah, arba imahot, sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz. Shissah mi yodea'? Shissah ani yodea."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (The Yitzchak ben Gedalya haLevi Memorial Haggada [transliteration] [en])",
+      "snippet": "Shishah sidrei mishnah, ḥamishah ḥumeshei Torah, arba imahot, sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz. Shiv'ah mi yodea'? Shiv'ah ani yodea."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (The Yitzchak ben Gedalya haLevi Memorial Haggada [transliteration] [en])",
+      "snippet": "Shiv'ah yemei shabata, shishah sidrei mishnah, ḥamishah ḥumeshei Torah, arba imahot, sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz. Shemonah mi yodea'?"
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (The Yitzchak ben Gedalya haLevi Memorial Haggada [transliteration] [en])",
+      "snippet": "Shemonah yemei milah, shiv'ah yemei shabata, shishah sidrei mishnah, ḥamishah ḥumeshei Torah, arba imahot, sheloshah avot, shenei luḥot haberit, eḥad Eloheinu shebashamayim uva'aretz."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:9 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Para ser sincero, essa pergunta é enganosa, pois baseia-se numa compreensão incorreta do nome de um dos midrashim: \"Avot deRabi Natan\"."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:9 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Essa obra é, na verdade, uma versão do Tratado Avot atribuída a R. Natan , um sábio do século II, que era apenas um pouco mais velho que Rabi Yehuda HaNassi, o editor da Mishná."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:9 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Descobriu-se que, paralelamente ao Tratado Avot conhecido pelos leitores, existia outra edição desse tratado, sendo que ambos os textos coincidem em grande parte, mas não são idênticos. R."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:9 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Enquanto o Tratado Avot de Rabi Yehuda HaNassi foi incluído na Mishná e, portanto, ganhou um status honroso e central no pensamento e cultura do povo de Yisrael, o Tratado Avot elaborado por R."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:9 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Natan, mas que continuou a crescer até atingir sua forma final ao longo de centenas de anos, e nesse processo de expansão partes do Tratado Avot da Mishná foram incorporadas."
+    },
+    {
+      "source_id": "Tanya, Part I; Likkutei Amarim 1:2 (Kehot Publication Society (English Translation) [en])",
+      "snippet": "This requires to be understood, for it contradicts the Mishnaic dictum [ Avot , ch. 2], “And be not wicked in your own estimation.” 2   Avot 2:13."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 10 (5197 [en])",
+      "snippet": "O texto do tratado de Avot constitui também uma seção por si só. Como o tratado de Avot foi incluído nos Sidurim, muitos textos sobreviveram em manuscritos, especialmente na literatura dos Rishonim."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 10 (5197 [en])",
+      "snippet": "A quantidade de variações de texto no tratado de Avot é maior do que em qualquer outro tratado da Mishná."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 10 (Sefaria Community Translation [en])",
+      "snippet": "The text of the tractate of *Avot* also constitutes a section in itself."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 10 (Sefaria Community Translation [en])",
+      "snippet": "Since the tractate of *Avot* was included in the *Sidurim*, many texts have survived in manuscripts, especially in the literature of the *Rishonim*."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 10 (Sefaria Community Translation [en])",
+      "snippet": "The amount of textual variations in the tractate of *Avot* is greater than in any other tractate of the Mishnah."
+    },
+    {
+      "source_id": "Tosafot on Shabbat 49b:7:2 (Sefaria Community Translation [en])",
+      "snippet": "But moreover, if we don’t derive the avot melachot from the Mishkan, how would we know which are avot and toladot??"
+    },
+    {
+      "source_id": "Peninei Halakhah, Shabbat 9:2:5 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "These 39 activities are called avot melakha , or simply avot, as are activities that are very similar to them. Activities that are largely, but not entirely, similar to avot are called toladot."
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:2 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "If he cannot concentrate during all of the berachot, he must make an effort to concentrate in Birkat Avot and Birkat Modim, for those are the berachot in which we bow down at their beginning and at their"
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:2 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "At the very least, he must have kavanah in Birkat Avot, the berachah that opens the Amidah. 5 Shulchan Aruch 101:1 and Mishnah Berurah 1-3."
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:2 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "If he is so troubled that he knows that he will not be able to concentrate even for Birkat Avot , he may not recite the Amidah ."
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:2 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "kavanah in Birkat Avot ."
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:2 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "According to the Shulchan Aruch , even if he already prayed and did not have kavanah in “ Avot ,” he must repeat the Amidah ; all the more so he may not start praying without kavanah ."
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of the Fathers 1 (Sefaria Community Translation [en])",
+      "snippet": "Pirkei Avot: A Mishnaic text also known as 'Masekhet Avot'. It is included in the Babylonian Talmud under the order of Nezikin, between the tractates 'Avodah Zarah' and 'Horayot'."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Numbers 1:2:2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "Heb. beit avot. The tribes are made up of clans comprised of families, and the family unit in turn includes a cluster of households."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Numbers 1:2:2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "The beit avot is an extended-family structure made up of all the descendants of a living ancestor, whereas the larger clan and tribal units rally around the memory of a more distant patriarchal figure."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Numbers 1:2:2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "When a female member of the beit avot marries, she generally departs from her beit avot and joins that of her husband."
+    },
+    {
+      "source_id": "Tikkunei Zohar 61b:5 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": ". ❖ ו ∞ ’atarah cxxx Mishnah Avot 1:13 ∞ taga ∞ keter cxxxi Mishnah Avot 4:13 cxxxii See Mishnah Avot 6:6"
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 3:14:10 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Escrever um comentário sobre o Tratado Avot da Mishná exige, portanto, uma verificação constante de \"Avot deRabi Natan\", e de fato encontramos menções a essa obra ao longo de todo o nosso comentário, e"
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of The Fathers of Rabbi Nathan 1 (Sefaria Community Translation [en])",
+      "snippet": "Avot d'Rabbi Natan: One of the minor tractates in the Babylonian Talmud under the order of Nezikin. It serves as a kind of Braitot or Tosefta for the Mishnaic tractate 'Pirkei Avot'."
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of The Fathers of Rabbi Nathan 1 (Sefaria Community Translation [en])",
+      "snippet": "The latter is referenced in a commentary attributed to Rashi on 'Pirkei Avot' , particularly on the phrase \"Do not talk excessively with a woman\"."
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of The Fathers of Rabbi Nathan 1 (Sefaria Community Translation [en])",
+      "snippet": "Another narrative from the French version of Avot d'Rabbi Natan was published by R' Chaim Meir Horowitz Levi in 'Beit Akeidot', booklet 1, page 34 , beginning with \"When Vespasian came to Jerusalem...\""
+    },
+    {
+      "source_id": "Mishneh Torah, Sabbath 7:7 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Tanto aquele que realiza um Av dos Avot Melachot ou uma Toladah das Toladot com dolo, é culpado de Karet . E se vierem testemunhas, é Sekilado . Por erro, é obrigado a um Chatat fixo."
+    },
+    {
+      "source_id": "Mishneh Torah, Sabbath 7:7 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Se é assim, qual a diferença que há entre os Avot e as Toladot ? Não há entre eles diferença senão quanto ao assunto do Qurban apenas."
+    },
+    {
+      "source_id": "Mishneh Torah, Sabbath 7:7 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Pois aquele que realiza por erro, se realizou muitos Avot em um só esquecimento, é obrigado a um Chatat para cada Av e Av ."
+    },
+    {
+      "source_id": "Sefer HaYirah 174 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "Avot 4:1. . and M. Avot 1:5. Makor ha-Yirah: Bava Metzia 32b. To bend his inclination: Pesachim 113b and in הגההת of the Vilna Gaon. Even from idle chatter: Chagigah 5b, Yoma 77a."
+    },
+    {
+      "source_id": "Sefer HaYirah 174 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "Avot d'Rabbi Natan end of ch. 22."
+    },
+    {
+      "source_id": "Sefer Daniel; Opportunity in Exile, Glossary 15 (Rabbi Chaim Jachter, Kol Torah Publications, Teaneck, NJ, 2021 [en])",
+      "snippet": "Avot Fathers"
+    },
+    {
+      "source_id": "Siddur Edot HaMizrach, Mishna Study for Shabbat, Pirkei Avot 1 (Sefaria Community Translation [en])",
+      "snippet": "Pirkei Avot"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Pekudei 2 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "It is also written so in Pirke Avot. 2 B. Shabbat , 25b. 3 M. Avot , 4.1."
+    },
+    {
+      "source_id": "Torah Temimah on Torah, Exodus 25:8:4 (Sefaria Community Translation [en])",
+      "snippet": "Avot d'Rebbe Natan:"
+    },
+    {
+      "source_id": "Contemporary Halakhic Problems, Vol I, Part I, CHAPTER IX Miscellaneous Questions 2 (Contemporary halakhic problems, by J. David Bleich, 1977-2005 [en])",
+      "snippet": "AVOT 5:22"
+    },
+    {
+      "source_id": "Contemporary Halakhic Problems, Vol V, Chapter IV Use of Surveillance Systems on Shabbat 2 (Contemporary halakhic problems, by J. David Bleich, 1977-2005 [en])",
+      "snippet": "AVOT 2:1"
+    },
+    {
+      "source_id": "Tosafot Yom Tov on Pirkei Avot 1:1:5 (Tosafot Yom Tov on Avot, trans. Dov Dukhovny, 2018 [en])",
+      "snippet": "Later in Avot, 2:10, where the mishna also says “they said three things,” Rav offers as an alternate explanation that these were the dicta they constantly emphasized, as he writes on Avot 1:2."
+    },
+    {
+      "source_id": "Daf Shevui to Sukkah 32b:14 (Daf Shevui [en])",
+      "snippet": "The first section of this baraita is an interpretation of the word “avot” from Leviticus 23:40. “Avot” means plaited and like a chain—these are the leaves of the myrtle . R. Eliezer b."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot, Introduction 2 (Sefaria Community Translation [en])",
+      "snippet": "This tractate is called by the name, Tractate Avot or Pirkei Avot ."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot, Introduction 2 (Sefaria Community Translation [en])",
+      "snippet": "It is already mentioned by this name in the Babylonian Talmud, which says , \"Anyone who wants to be pious should observe... the words of [Tractate] Avot\" ."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot, Introduction 2 (Sefaria Community Translation [en])",
+      "snippet": "But perhaps it is possible to combine the two understandings and say that Tractate Avot includes the foundations of a proper life, according to how the founders of post-Biblical Jewish society put them"
+    },
+    {
+      "source_id": "Mishneh Torah, Shofar, Sukkah and Lulav 7:2 (Publicado em 5784, Saymon Pires da Silva [pt]Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "\"Vaanaf etz avot\" mencionado na Torah é o Hadas, cujas folhas cobrem o seu tronco. Como por exemplo, que haja três folhas ou mais em um único talo."
+    },
+    {
+      "source_id": "Mishneh Torah, Shofar, Sukkah and Lulav 7:2 (Publicado em 5784, Saymon Pires da Silva [pt]Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Mas se duas folhas estivessem alinhadas uma contra a outra e a terceira folha acima delas, isto não é Avot , mas é chamado de Hadas shoteh :"
+    },
+    {
+      "source_id": "Sefer Daniel; Opportunity in Exile, Glossary 117 (Rabbi Chaim Jachter, Kol Torah Publications, Teaneck, NJ, 2021 [en])",
+      "snippet": "Pirkei Avot Chapters of the Fathers"
+    },
+    {
+      "source_id": "From David to Destruction, Elisha and the Northern Kingdom, Yehoram ben Achav vs Yeihu 17 (From David to Destruction, Teaneck, NJ, 2019 [en])",
+      "snippet": "Conclusion – Pokeid Avon Avot Al Banim"
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VII, Letter Ayin 38 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "’Anaf ‘Eẓ Avot . The three “patriarchs.”"
+    },
+    {
+      "source_id": "Lessons in Leadership; A Weekly Reading of the Jewish Bible, Vayeshev; The Power of Praise 17 (Maggid Books and the Orthodox Union, 2015 [en])",
+      "snippet": "There is a fascinating mishna in Avot:"
+    },
+    {
+      "source_id": "Mishneh Torah, Sabbath 22:23 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Aquele que tinge é das avot melachot , por isso é proibido para uma mulher passar sarak sobre o seu rosto, porque ela é como quem tinge."
+    },
+    {
+      "source_id": "Mishneh Torah, Sabbath 22:23 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "E aquele que costura é das avot melachot , por isso é proibido encher a almofada e o cobertor novos com fibras, por decreto para que não costure."
+    },
+    {
+      "source_id": "The Kehot Chumash; A Chasidic Commentary, Numbers 21:1:2 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Therefore, the Clouds of Glory, which surrounded all the Jewish people equally, existed in his merit. 79 Avot 1:12; Avot d’Rabbi Natan 12:3. 80 Likutei Sichot , vol. 2, p. 335; Sefer HaSichot 5751 , vol"
+    },
+    {
+      "source_id": "Covenant and Conversation; Leviticus; The Book of Holiness, Metzora, Is There Such a Thing as Lashon Tov? 19 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "We can now answer a question we might have asked at the outset about the teaching in Avot that speaks of Yoḥanan b. Zakkai’s disciples. Avot is about ethics, not history or biography."
+    },
+    {
+      "source_id": "Depths of Yonah 2:1:17 (The Depths of Yonah, Rabbi Chaim & Binyamin Jachter. Teaneck, NJ, 2018 [en])",
+      "snippet": "Yonah communicates the message taught by Avot 4:22:"
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 22:3:1 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "Shabbat Prayer and Kiddush / Va-yekhulu and Magen Avot"
+    },
+    {
+      "source_id": "Shulchan Arukh, Orach Chayim 101:1 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "E neste assunto há quatro subseções: Quem reza deve ter intenção em todas as bênçãos, e se não for capaz de ter intenção em todas, pelo menos deve fazê-lo nas Avot; se não teve intenção nas Avot, ainda"
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 48 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "The concepts of zekhut avot and Maase avot siman lebanim are the spiritual equivalent of this."
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 12:8:4 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "If one is about to finish Avot and notices that she did not have kavana in its recitation, as long as she has not yet said God’s name at the conclusion of the berakha, she goes back to “Elokei Avraham”"
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 12:8:4 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "It is preferable that she go back and think the words of Birkat Avot in her heart, for, in Rambam’s opinion, thought is considered speech ."
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 12:8:4 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "she continues to pray and must try to have kavana while reciting the remaining berakhot, especially Birkat Modim, for some poskim maintain that having kavana in Modim rectifies the lack of kavana in Avot"
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 37 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "How does Maase avot siman lebanim help us to face our future?"
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Genesis 47:30:1 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "[Heb. avot, often translated as “fathers.” See at 25:8. — Ed. ]"
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Genesis 49:29:3 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "[Heb. avot, often translated as “fathers.” See at 25:8. — Ed .]"
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of the Fathers 2 (Sefaria Community Translation [en])",
+      "snippet": "For more, see the entry 'Pirkei Avot' in the 'Otzar Yisrael' encyclopedia."
+    },
+    {
+      "source_id": "Sha'arei Kedusha, Part 2 6:8 (Gates of Holiness, translated by Rabbi Amiram Markel, 2013 [en])",
+      "snippet": "One who makes use of the Crown, shall perish,” in that either he or his offspring will become apostates, or he and his offspring will die, or he and his offspring shall become impoverished. 654 Mishnah Avot"
+    },
+    {
+      "source_id": "Sha'arei Kedusha, Part 2 6:8 (Gates of Holiness, translated by Rabbi Amiram Markel, 2013 [en])",
+      "snippet": "1:13; 4:5 655 Also see Avot d’Rabbi Natan, Ch. 12; Sefer Mitzvot Gadol, Positive Commandment 12 and the citations there."
+    },
+    {
+      "source_id": "Radak on I Chronicles 24:31:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "Avot the head opposite his younger kinsman. That was his name— Avot . “Opposite his younger kinsman” means that an older one did not take precedence over a younger one."
+    },
+    {
+      "source_id": "Tradition in an Untraditional Age, THINKERS, Chapter 12; Buber's Jewishness and Buber's Judaism 24 (Tradition in an Untraditional Age, Maggid Books, 2023 [en])",
+      "snippet": "Avot 2:12, Avot de-Rabbi Nathan 17:13, Leviticus Rabbah 43:3, Beitzah 16a, Kiddushin 81b–82a, Pesachim 8b, Nazir 23 a–b."
+    },
+    {
+      "source_id": "Rambam Introduction to the Mishnah 15:60 (Rambam Introduction to the Mishnah, translation by Rabbi Francis Nataf, 2017 [en])",
+      "snippet": "Therefore the start of his words in Tractate Avot was judicial ethics, as he said, \"Be deliberate in judgment.\""
+    },
+    {
+      "source_id": "Rambam Introduction to the Mishnah 15:60 (Rambam Introduction to the Mishnah, translation by Rabbi Francis Nataf, 2017 [en])",
+      "snippet": "And the judge must be restrained by all of the matters that are in Tractate Avot – for example, that he be deliberate in judgement, and not be quick to execute a legal decision, as it is possible that"
+    },
+    {
+      "source_id": "Covenant and Conversation; Exodus; The Book of Redemption, Tetzaveh, Brothers; A Drama in Five Acts 31 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "“One who honours others.” 10 Avot 4:1."
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 42 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "What can we learn for our lives today from the concept of Maase avot siman lebanim ?"
+    },
+    {
+      "source_id": "Tikkunei Zohar 62a:1 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "of which it is stated: ‘With ten utterances was the world created’. cxxxv Mishnah Avot 5:1"
+    },
+    {
+      "source_id": "Tosafot Yom Tov on Pirkei Avot, Pirkei Avot, Introduction 4 (Tosafot Yom Tov on Avot, trans. Dov Dukhovny, 2018 [en])",
+      "snippet": "He continues at length concerning the proper behavior of judges, and concludes by saying: Seeing as the judge is in need of these numerous dicta in order to behave properly, how truly fitting to place Avot"
+    },
+    {
+      "source_id": "Tosafot Yom Tov on Pirkei Avot, Pirkei Avot, Introduction 4 (Tosafot Yom Tov on Avot, trans. Dov Dukhovny, 2018 [en])",
+      "snippet": "For Avot contains these dicta and also contains other teachings that lead one to abstain from the pleasures of this world, honor Torah and its scholars, and act in accordance with integrity and the fear"
+    },
+    {
+      "source_id": "Tradition in an Untraditional Age, RESPONSES TO MODERNITY, Chapter 6; An Agenda of Future Jewish Thought 72 (Tradition in an Untraditional Age, Maggid Books, 2023 [en])",
+      "snippet": "Avot 2:15; see also Avot de-Rabbi Nathan , 30; Beitzah 16a. 39 The title of the fifth of the Eight Chapters , Maimonides’ introduction to his commentary to Mishnah, Avot ."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Bibliography 119 (Mishnat Eretz Yisrael, Seder Nezikin, Jerusalem, 2013 [he])",
+      "snippet": "טרופר, אבות – Tropper, A., 2001, Tractate Avot in the c Context of the Graeco-Roman Near East, Oxford."
+    },
+    {
+      "source_id": "What is the Talmud, VII What is written in the Talmud?, 5 Jurisprudence 14 (Translated from German by Ruth Morris, Jerusalem, 2013 [en])",
+      "snippet": "He used to say: judge not alone, for none may judge alone save the One… Avot Ch. 4:8"
+    },
+    {
+      "source_id": "Ma'amar Tzipita LeYeshuah 1:18 (Anticipating Redemption, trans. by Rabbi Amiram Markel and Rabbi Yehudah S. Markel, 2023 [en])",
+      "snippet": "14 Tanna D’Bei Eliyahu Rabba 1:1; Also see Mishnah Avot 3:17, 2:2 15 Deuteronomy 5:20"
+    },
+    {
+      "source_id": "Sefer HaYirah 82 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "He shall bend at the beginning and end of the Avot [section of the Amidah]."
+    },
+    {
+      "source_id": "Tanya, Part IV; Iggeret HaKodesh 22:18 (Kehot Publication Society (English Translation) [en])",
+      "snippet": "For it is a set matter and an established proverb that each one becomes better through his fellow being. 66 Avot 4:10. 67 I.e., any one. 68 Whereas all of Israel together form a single stature every one"
+    },
+    {
+      "source_id": "Tanya, Part IV; Iggeret HaKodesh 22:18 (Kehot Publication Society (English Translation) [en])",
+      "snippet": "—Cf. also Avot 4:1; Zohar III:85b."
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 47 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "IT ONCE HAPPENED… Zekhut avot suggests that our lives are influenced by the merits of our ancestors."
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Vayeitze, I; Lavan the Aramean 47 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "Maase avot siman lebanim is a related concept, but not identical."
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:3 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "If a person recited the Amidah and did not have kavanah during Birkat Avot, he must, in principle, repeat his Amidah, because the lack of kavanah during that berachah prevents him from fulfilling his obligation"
+    },
+    {
+      "source_id": "Peninei Halakhah, Prayer 17:9:3 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "Therefore, the Acharonim have instructed not to repeat the Amidah, since it is possible that even in reciting the Amidah a second time, he will forget to have kavanah in Birkat Avot and his repetition"
+    },
+    {
+      "source_id": "Rabbinic Authority II, Part I; Rabbinic Authority; The Vision, Chapter 5; The Status and Role of a To'ein Rabbani in the Beit Din Process 5 (Rabbinic Authority: The Vision and the Reality, Urim Publications. Jerusalem, 2013 [en])",
+      "snippet": "Echoing the words of the Rambam, Radvaz aptly notes, 10 Mishnah, Avot 1:8; Mishneh Torah , Hilkhot Sanhedrin 21:11, 23:10; SA , HM 17:10. 11 Meiri , Beit ha-Behira , Avot 1:8. 12 Mishneh Torah , Hilkhot"
+    },
+    {
+      "source_id": "Sha'arei Kedusha, Part 1 3:4 (Gates of Holiness, translated by Rabbi Amiram Markel, 2013 [en])",
+      "snippet": "Moreover, our sages, of blessed memory, said, “Whosoever desires to become a Chassid should fulfill the words of Pirkei Avot – which speak regarding the acquisition of good character traits."
+    },
+    {
+      "source_id": "Sha'arei Kedusha, Part 1 3:4 (Gates of Holiness, translated by Rabbi Amiram Markel, 2013 [en])",
+      "snippet": "However, if the Yetzer HaRa still exists and one merely restrains himself by force of willpower, he should have stated, “you will not transgress.” 60 Talmud Baba Kama 30 61 Avot 2:1 62 Avot 3:1 63 Avot"
+    },
+    {
+      "source_id": "What is the Talmud, VII What is written in the Talmud?, 2 Fellow man 8 (Translated from German by Ruth Morris, Jerusalem, 2013 [en])",
+      "snippet": "Avot Ch. 2:10"
+    },
+    {
+      "source_id": "Rashbam on Leviticus 19:35:2 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "Our sages use this expression when speaking of measures of water in Avot 6,4."
+    },
+    {
+      "source_id": "Tribal Lands, Glossary of Commonly Used Terms 2 (Jerusalem, 2019 [en])",
+      "snippet": "Av/Avot Forefathers of the Jewish nation, specifically Abraham, Isaac, and Jacob. Can also refer to the progenitor of a tribe."
+    },
+    {
+      "source_id": "Rambam Introduction to the Mishnah 15:56 (Rambam Introduction to the Mishnah, translation by Rabbi Francis Nataf, 2017 [en])",
+      "snippet": "And when he finished everything that the judge would need, he started with Avot . And he did this for two [reasons]:"
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 8 (5197 [en])",
+      "snippet": "Neste ponto, devo adicionar uma confissão pessoal que se aplica a toda a Mishná, mas é especialmente verdadeira no tratado de Avot."
+    },
+    {
+      "source_id": "The Gate of Unity 26:20 (Translated by Rabbi Amiram Markel, 2023 [en])",
+      "snippet": "11 Mishnah Avot 3:13 12 Talmud Bavli, Megillah 18a 13 A Selah was an ancient monetary currency used during Talmudic times."
+    },
+    {
+      "source_id": "Tikkunei Zohar 46a:11 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "And through it does a person ‘ask according to the subject, and respond in accordance with the law’. xxi Mishnah Avot 5:7"
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 2:15:1 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Ao concluir o tratado Avot, onde discute Raban Yochanan ben Zakkai e seus cinco talmidim, ele se dedica a outro sábio daqueles dias."
+    },
+    {
+      "source_id": "Sefer HaYirah 271 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "Avot 6:2 ."
+    },
+    {
+      "source_id": "Otzar Midrashim, Ethics of The Fathers of Rabbi Nathan 2 (Sefaria Community Translation [en])",
+      "snippet": "For more, see the entry 'Avot d'Rabbi Natan' in the 'Otzar Yisrael' encyclopedia, and in Schechter's introduction to the printed version of ADRN.\""
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 11 (5197 [en])",
+      "snippet": "Para mim, a explicação do tratado de Avot é a realização de um sonho pessoal e familiar."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 11 (5197 [en])",
+      "snippet": "Quando meu pai e eu começamos a explicar a Mishná, sonhávamos com o dia em que chegaríamos a comentar o tratado de Avot."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 11 (5197 [en])",
+      "snippet": "Muitos anos antes, meu pai e minha irmã sonhavam em escrever um comentário sobre o tratado de Avot."
+    },
+    {
+      "source_id": "Mishnah Rosh Hashanah 4:5 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "A ordem das bênçãos: diz Avot , Guevurot e Kedushat Hashem , e inclui Malchuyot com elas, e não sopra o shofar. Kedushat Hayom , e sopra o shofar. Zichronot , e sopra o shofar."
+    },
+    {
+      "source_id": "Mishnah Rosh Hashanah 4:5 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Ao invés disso, diz Avot, Guevuroot e Kedushat Hashem, e inclui Malchuyot com Kedushat Hayom, e sopra o shofar. Zichronot, e sopra o shofar. Shofarot, e sopra o shofar."
+    },
+    {
+      "source_id": "Shulchan Arukh, Orach Chayim 113:2 (Sefaria Community Translation [en])",
+      "snippet": "Gloss: And even though in [the blessing of] \"Avot\", one bows at the end of the blessing, nevertheless, one needs to straighten a little at the end of \"Zokhreinu\" so that it should be apparent that one"
+    },
+    {
+      "source_id": "Shulchan Arukh, Orach Chayim 113:2 (Sefaria Community Translation [en])",
+      "snippet": "is going back and bowing [again] because of the obligation [to bow at the end of the blessing of \"Avot\"]"
+    },
+    {
+      "source_id": "Ma'amar Tzipita LeYeshuah 1:10 (Anticipating Redemption, trans. by Rabbi Amiram Markel and Rabbi Yehudah S. Markel, 2023 [en])",
+      "snippet": "Certainly, their level is all the higher and more exemplary, for they accomplish this with much greater difficulty and anguish than previous generations, and as known from Avot of Rabbi Nathan, accomplishing"
+    },
+    {
+      "source_id": "Ma'amar Tzipita LeYeshuah 1:10 (Anticipating Redemption, trans. by Rabbi Amiram Markel and Rabbi Yehudah S. Markel, 2023 [en])",
+      "snippet": "motives, such as seeking honor etc., being that, on the contrary, because of our many sins, whoever desists from evil is considered to be depraved by many people, and whoever fears HaShem is despised. 11 Avot"
+    },
+    {
+      "source_id": "Avodat HaMelekh on Mishneh Torah, Transmission of the Oral Law 7:3 (6717 [en])",
+      "snippet": "Mishná Avot, dos cantos dos homens da Grande Assembleia, e escreveu nosso mestre que ele foi parte dos cento e vinte que formaram o 'congresso puro'."
+    },
+    {
+      "source_id": "Avodat HaMelekh on Mishneh Torah, Transmission of the Oral Law 7:3 (6717 [en])",
+      "snippet": "E veja Rashi em Avot, dos cantos dos homens da Grande Assembleia, ou seja, no final, aqueles que não estavam com eles no início do Segundo Templo, nos dias de Ezra."
+    },
+    {
+      "source_id": "Torah of the Mothers, IV; Exile and Redemption 7:11 (Edited by Ora Wiskind Elper and Susan Handelman, Urim, 2006 [en])",
+      "snippet": "To that end, we have been given the Tractate of Avot and the Sages said : “Whoever strives to attain the level of a hasid should fulfill the words of Avot , for the highest and most refined ethics are"
+    },
+    {
+      "source_id": "Kuntres Mattan Torah, Fifth Discourse; The Peace 43 (Translated by Vital Transformation and Michal Ricardo, 2023 [en])",
+      "snippet": "Having known all that was said, we can now gain understanding of this unclear Mishna in tractate Avot. This is what it says,"
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 1:6:2 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Yehoshua ben Perachya diz: E sua declaração, como muitas declarações em Pirkei Avot, é composta de três partes, e se dirige ao homem comum."
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 22:3:7 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "This berakha is recited by the ḥazan, so after the congregation sings its opening passage Magen Avot, the ḥazan must repeat it by himself ."
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 8 (Sefaria Community Translation [en])",
+      "snippet": "At this point, I must add a personal confession that applies to the entire Mishnah but is especially true in the tractate of *Avot*."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 4:2:12 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Com base neste princípio de \"kal v'chomer\", os Sábios derivam novas leis e tiram várias conclusões, e no próprio Tratado Avot há dois exemplos disso ."
+    },
+    {
+      "source_id": "Peninei Halakhah, Women's Prayer 22:3:6 (Peninei Halakhah, English ed. Yeshivat Har Bracha [en])",
+      "snippet": "The Sages instituted that the ḥazan recites Magen Avot or the Berakha Me’ein Sheva after Ma’ariv, to serve as a sort of Ḥazarat Ha-shatz ."
+    },
+    {
+      "source_id": "Sefer HaYirah 205 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "Avot 6:9, ארי=אמר רבי יוסי בן קיסמא."
+    },
+    {
+      "source_id": "Haggahot R' Yeshaya Berlin on Avot D'Rabbi Natan 5:2:1 (Sefaria Community Translation [en])",
+      "snippet": "[See the commentary of Rabbi Ovadiah of Bartenura on Mishnah 11 in Chapter 1 of Avot, and what the Tosefot Yom Tov wrote about it.]"
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 3 (Sefaria Community Translation [en])",
+      "snippet": "The tractate of *Avot* is a culmination both in its moral content , as well as in its pathos and conceptual depth. Most formulations are brief ."
+    },
+    {
+      "source_id": "Bartenura on Mishnah Peah 2:6:2 (Sefaria Community Translation [en])",
+      "snippet": "THE PAIRS: These refer to the pairs mentioned in the first chapter of Tractate Avot, who received [the tradition] pair from pair up until Shimon HaZadik."
+    },
+    {
+      "source_id": "What is the Talmud, VII What is written in the Talmud?, 1 Man; his life, his work, his day of rest 10 (Translated from German by Ruth Morris, Jerusalem, 2013 [en])",
+      "snippet": "Avot Ch. 1:10"
+    },
+    {
+      "source_id": "What is the Talmud, VII What is written in the Talmud?, 4 Society and community 4 (Translated from German by Ruth Morris, Jerusalem, 2013 [en])",
+      "snippet": "Avot Ch. 2:4"
+    },
+    {
+      "source_id": "Sforno on Numbers 22:36:1 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "ויצא לקראתו, in order to honour him, for Balak knew that Bileam was a very vain person, as our sages have made clear in Avot 5,18."
+    },
+    {
+      "source_id": "Tzava'at HaRivash 142:1 (The Way of The Baal Shem Tov. Adapted into English by Rabbi Amiram Markel and Yehudah Shimon Markel, 2020 [en])",
+      "snippet": "The explanation is as follows: “Know that everything that is above is from you.” 268 Mishnah Avot 2:1"
+    },
+    {
+      "source_id": "Covenant and Conversation Family Edition, Ha'Azinu, II; Let My Teaching Drop as Rain 42 (Covenant and Conversation Family Edition, Maggid Books, 2023 [en])",
+      "snippet": "How are these ideas from Rabbi Sacks, Rav Kook, and the Sages in Pirkei Avot connected to the message of this Covenant &amp; Conversation essay?"
+    },
+    {
+      "source_id": "Mishnat Eretz Yisrael on Pirkei Avot, Introduction 3 (5197 [en])",
+      "snippet": "O tratado de Avot é um ponto culminante tanto em seu conteúdo moral , quanto em seu pathos e profundidade conceitual. A maioria das formulações são breves ."
+    },
+    {
+      "source_id": "Kuntres Mattan Torah, Fifth Discourse; The Peace 43 (Translated by Vital Transformation and Rachel Grundman, Spanish Edition, 2023 [es] [en])",
+      "snippet": "Después de saber todo lo que fue dicho, podemos ahora ganar comprensión de esta Mishna poco clara en el tratado Avot. Esto es lo que dice,"
+    },
+    {
+      "source_id": "Sefer HaYirah 165 (Sefer ha-Yirah, trans. Rabbi Justin S. Kerber, 2007 [en])",
+      "snippet": "Avot , 4:12 ."
+    },
+    {
+      "source_id": "Or HaChaim on Deuteronomy 1:1:14 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "5) We are told in Avot 3,1 that if one wants to restrain oneself from sinning one should look at three phenomena., i.e. one's lowly origin, one's ultimate destiny, i.e. dust and worms, and the fact that"
+    },
+    {
+      "source_id": "Or HaChaim on Deuteronomy 1:1:14 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Another scholar admonishes us in chapter two of Avot to become a penitent a day before our death. The meaning is, of course, that one should be constantly aware of one's impending death."
+    },
+    {
+      "source_id": "Sichot HaRan 26:9 (Rabbi Nachman's Wisdom, trans. Aryeh Kaplan, Jerusalem. Breslov Research Institute, 1973 [en])",
+      "snippet": "You might forget them, but your reward is not reduced. 35 Avot deRabbi Noson 27:3; Vayikra Rabbah 19:2."
+    },
+    {
+      "source_id": "A New Israeli Commentary on Pirkei Avot 2:7:4 (Publicado em 5784, Saymon Pires da Silva [pt] [en])",
+      "snippet": "Somente aqui o tema da feitiçaria é mencionado em Pirkei Avot, e essa frase, que hoje soa ofensiva às mulheres, justifica uma discussão separada ."
+    },
+    {
+      "source_id": "Zohar, Vayigash 5:44 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "Again, the heavens here symbolize the patriarchs, and the patriarchs find their centre in Jacob, who embraces them all, he being the choice of the patriarchs, and the one who causes light to radiate into"
+    },
+    {
+      "source_id": "Shemonah Kevatzim 1:516:1 (Shmonah Kvatzim, trans. Yaacov David Shulman. 2025 [en])",
+      "snippet": "The Patriarchs, Prayer, and Rays of Light The patriarchs rectified the Shechinah ."
+    },
+    {
+      "source_id": "Siftei Chakhamim, Numbers 23:9:1 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "And powerful like the mountains … because of the Patriarchs and Matriarchs. The Patriarchs are called “mountains” and the Matriarchs are called “hills.”"
+    },
+    {
+      "source_id": "Likutei Moharan, Part II 84:4:2 (Likutey Moharan Volumes 12-15, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "And when the Shekhinah dons radiant garments—white, red and yellow, corresponding to the Patriarchs—She is the concept of Sh’VuAh , the concept of ShiVAh ."
+    },
+    {
+      "source_id": "Likutei Moharan, Part II 84:4:2 (Likutey Moharan Volumes 12-15, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "It is as if the oath was made to the Patriarchs at this moment. This is: “that He swore to your forefathers, as this day”—specifically “as this day.”"
+    },
+    {
+      "source_id": "Likutei Moharan, Part II 84:4:2 (Likutey Moharan Volumes 12-15, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "It follows, that through intense prayer the oath to the Patriarchs is renewed."
+    },
+    {
+      "source_id": "Sforno on Exodus 3:15:2 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "ה' אלוקיכם, this is also the G’d of your patriarchs in addition to being the G’d possessing these virtues just mentioned."
+    },
+    {
+      "source_id": "Sforno on Exodus 3:15:2 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "He had concluded a covenant with your patriarchs including all their offspring, so that this is part of My definition זה שמי לעולם, forever as well as the name He already was known by previously before"
+    },
+    {
+      "source_id": "Sforno on Exodus 3:15:2 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "this additional attribute through the covenant with the patriarchs."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 48:16:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Jacob wished that Joseph's sons should reflect the spiritual level of the patriarchs."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 48:16:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "While it is quite impossible for any Jew to completely sever the connection with all three of the patriarchs, Jacob blessed Ephrayim and Menashe in that they would never fail to reflect the spiritual values"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 48:16:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "of even one of the patriarchs."
+    },
+    {
+      "source_id": "Rabbeinu Bahya, Devarim 10:14:5 (Torah Commentary by Rabbi Bachya ben Asher, trans. Eliyahu Munk, 1998. [en])",
+      "snippet": "A kabbalistic approach understands the words רק באבותיך חשק ה' as an allusion to the souls of the patriarchs as having been derived from higher emanations such as חסד גבורה, and תפארת respectively This"
+    },
+    {
+      "source_id": "Rabbeinu Bahya, Devarim 10:14:5 (Torah Commentary by Rabbi Bachya ben Asher, trans. Eliyahu Munk, 1998. [en])",
+      "snippet": "is why upon their deaths the patriarchs became part of the מרכבה, the carriers of G’d’s Shechinah as if they and the emanations from which their souls had evolved were one and the same thing."
+    },
+    {
+      "source_id": "Rabbeinu Bahya, Devarim 10:14:5 (Torah Commentary by Rabbi Bachya ben Asher, trans. Eliyahu Munk, 1998. [en])",
+      "snippet": "This, of course, would account for the extraordinary degree of fondness of G’d for these patriarchs as described in our verse."
+    },
+    {
+      "source_id": "Rabbeinu Bahya, Devarim 10:14:5 (Torah Commentary by Rabbi Bachya ben Asher, trans. Eliyahu Munk, 1998. [en])",
+      "snippet": "This would also account for G’d’s close relationship with the descendants of these patriarchs."
+    },
+    {
+      "source_id": "Sifrei Devarim 299:3 (Trans. by Marty Jaffee, 2015 [en])",
+      "snippet": "“In the Land which HASHEM swore to our Patriarchs” — this excludes proselytes [for they are not related by blood to the Patriarchs]. 22 //M.Bik.1:4; T.Bik.1:2"
+    },
+    {
+      "source_id": "Berakhot 16b:14 (William Davidson Edition - English [en])",
+      "snippet": "The Gemara asks: What is the reason for this exclusivity with regard to the Patriarchs?"
+    },
+    {
+      "source_id": "Berakhot 16b:14 (William Davidson Edition - English [en])",
+      "snippet": "Instead, the reason the sons of Jacob are not called patriarchs is not for that reason, but because until Jacob they are significant enough to be referred to as patriarchs, but beyond Jacob, they are not"
+    },
+    {
+      "source_id": "Berakhot 16b:14 (William Davidson Edition - English [en])",
+      "snippet": "significant enough to be referred to as patriarchs."
+    },
+    {
+      "source_id": "Shabbat 55a:13 (William Davidson Edition - English [en])",
+      "snippet": "With regard to the statement that the merit of the Patriarchs has ceased, the Gemara asks: From when did the merit of the Patriarchs cease?"
+    },
+    {
+      "source_id": "Shabbat 55a:13 (William Davidson Edition - English [en])",
+      "snippet": "Israel will no longer be saved by the merit of the Patriarchs."
+    },
+    {
+      "source_id": "Or HaChaim on Exodus 33:1:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "When the Torah reported communications from G'd to the Patriarchs, such communications did not usually involve לאמור , i.e. that they were to be passed on to others."
+    },
+    {
+      "source_id": "Or HaChaim on Exodus 33:1:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "The Torah wishes to remind us that whenever G'd had spoken to the Patriarchs promising to give the Holy Land to their descendants, such promises were לאמור , i.e. they were meant to be relayed by the Patriarchs"
+    },
+    {
+      "source_id": "Sforno on Deuteronomy 32:4:3 (Eliyahu Munk, HaChut Hameshulash [en])",
+      "snippet": "א-ל אמונה, a totally reliable and loyal G’d is He; when He swore to the patriarchs that He would perform deeds of love for their children on account of these patriarchs’ merit;"
+    },
+    {
+      "source_id": "Likutei Halakhot, Choshen Mishpat, Laws for Judges 1:1:5 (Sefaria Community Translation [en])",
+      "snippet": "The three judges who issue rulings are in the aspect of “the law follows the majority” , as it says in the Zoharic writings: there is no “majority” less than three, and these are from the aspect of the Patriarchs"
+    },
+    {
+      "source_id": "Likutei Halakhot, Choshen Mishpat, Laws for Judges 1:1:5 (Sefaria Community Translation [en])",
+      "snippet": "And the three pilgrimage festivals correspond to the three Patriarchs, as brought elsewhere. Thus, the judges are in the aspect of the Patriarchs, the aspect of the three pilgrimage festivals."
+    },
+    {
+      "source_id": "Tur HaArokh, Exodus 3:15:1 (Tur on the Torah, trans. Eliyahu Munk [en])",
+      "snippet": "G’d reverts to His reference as being the G’d of the patriarchs."
+    },
+    {
+      "source_id": "Tur HaArokh, Exodus 3:15:1 (Tur on the Torah, trans. Eliyahu Munk [en])",
+      "snippet": "He assures Moses, and through him the people of Israel, that His covenant with the patriarchs is of an eternal, enduring nature, one that will always be referred to at critical times in Jewish history."
+    },
+    {
+      "source_id": "Tur HaArokh, Exodus 3:15:1 (Tur on the Torah, trans. Eliyahu Munk [en])",
+      "snippet": "He responded to the children of the patriarchs in the past and will continue to do so."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz Linear, Musaf, First Day of Rosh Hashana, Reader's Repetition 97 (The Metsudah Machzor. Metsudah Publications, New York -- en [en])",
+      "snippet": "He remembers the Patriarchs, 3 The word צוּר is found in Yeshaya in reference to Avraham. “Look to the rock from which you were hewn.” Thus צוּרִים, rocks, refers to the Patriarchs."
+    },
+    {
+      "source_id": "Siftei Chakhamim, Numbers 13:22:1 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "At the grave of the Patriarchs. For if not so, why would he have gone to pray there instead of praying in another place. Rather one must say that it was because of the graves of the patriarchs."
+    },
+    {
+      "source_id": "Torah of the Mothers, II; Readings of Biblical Texts 7:136 (Edited by Ora Wiskind Elper and Susan Handelman, Urim, 2006 [en])",
+      "snippet": "The universal messages here are powerful: two non-Jewish priests tend to the spiritual needs of two Israelite patriarchs."
+    },
+    {
+      "source_id": "Torah of the Mothers, II; Readings of Biblical Texts 7:136 (Edited by Ora Wiskind Elper and Susan Handelman, Urim, 2006 [en])",
+      "snippet": "By leading the patriarchs to this recognition, the priests brought them to an understanding and appreciation of justice as a manifestation of God’s will."
+    },
+    {
+      "source_id": "Torah of the Mothers, II; Readings of Biblical Texts 7:136 (Edited by Ora Wiskind Elper and Susan Handelman, Urim, 2006 [en])",
+      "snippet": "At Sinai, in poignant reciprocity, God enjoins the descendants of these patriarchs to enlighten all of humanity with this same recognition."
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VI 5:11 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "This name indicates Binah, which is called “Who,” [along] with the three Patriarchs, who are called “Those” . This Name may be found in Gevurah and in Binah and in Malkhut."
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VI 5:11 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "It is all a hint at “those” three, [which are] places of Judgment. 30 The three sefirot, Gedulah, Gevurah, and Tiferet, are identified with the three patriarchs, Abraham, Isaac, and Jacob. Cf."
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VI 5:11 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "The implication is that Binah begot the three sefirotic “patriarchs.”"
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 23:245 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "Said the stranger: ‘Since originally it was the patriarchs who instituted the prayers, why should those instituted by Abraham and Isaac be of primary importance, while the one instituted by Jacob, who"
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 23:245 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "was the cream of the patriarchs, be only voluntary?’"
+    },
+    {
+      "source_id": "Avot DeRabbi Natan 37:7 (The Minor Tractates of the Talmud, trans. A. Cohen, London: Soncino Press, 1965 [en])",
+      "snippet": "And even as He created His world with seven so He created seven [ancestors]: the three Patriarchs and the four Matriarchs. 17 The MSS. add: ‘The three Patriarchs are Abraham, Isaac and Jacob; and the four"
+    },
+    {
+      "source_id": "Sanhedrin 90b:7 (William Davidson Edition - English [en])",
+      "snippet": "It is derived from a verse, as it is stated with regard to the Patriarchs: “I have also established My covenant with them to give to them the land of Canaan” ."
+    },
+    {
+      "source_id": "Sanhedrin 90b:7 (William Davidson Edition - English [en])",
+      "snippet": "The phrase: To give to you the land of Canaan, is not stated, as the meaning of the verse is not that God fulfilled the covenant with the Patriarchs when he gave the land of Canaan to the children of Israel"
+    },
+    {
+      "source_id": "Sanhedrin 90b:7 (William Davidson Edition - English [en])",
+      "snippet": "; rather, it is stated: “To give to them the land of Canaan,” meaning to the Patriarchs themselves."
+    },
+    {
+      "source_id": "Sanhedrin 90b:7 (William Davidson Edition - English [en])",
+      "snippet": "From here is it derived that the resurrection of the dead is from the Torah, as in the future the Patriarchs will come to life and inherit the land."
+    },
+    {
+      "source_id": "Or HaChaim on Deuteronomy 34:4:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "The reason the Torah had to write the word לאמור \"to say\" at this juncture, was that as of now G'd had not given this information to the patriarchs."
+    },
+    {
+      "source_id": "Or HaChaim on Deuteronomy 34:4:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "[In connection with a statement that the dead communicate with one another, Ed.], our sages in Berachot 18 claim that G'd ordered Moses to tell the three patriarchs that He had already discharged the oath"
+    },
+    {
+      "source_id": "Or HaChaim on Deuteronomy 34:4:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Perhaps the reason G'd wanted Moses to tell the patriarchs [instead of telling them Himself, Ed.] may have been so that Moses would make sure that the patriarchs would appreciate that G'd was able to keep"
+    },
+    {
+      "source_id": "Likutei Moharan 42:1:5 (Likutey Moharan Volumes 1-11, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "These are the three Patriarchs, the Patriarchs being the three radiant colors in whom “I will see her and remember [the everlasting covenant].”"
+    },
+    {
+      "source_id": "Tikkunei Zohar 55b:14 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "Sabbath is the totality of the three Patriarchs, because She is BaT , who is included in the 3 branches of the Patriarchs, who are the letter ש . ∞ ot lxxxi See BT Menaḥot 36b ∞ daughter ❖ Shyn"
+    },
+    {
+      "source_id": "Mei HaShiloach, Volume I, Numbers, Chukat 10 (Living waters, the Mei HaShiloach. Trans. and edited by Betsalel Philip Edwards, Jerusalem, J. Aronson 2001 [Revised digital edition, 2021] [en])",
+      "snippet": "The Patriarchs yearned for this. “The princes” means the Patriarchs., “You shall water from the Well of Salvation with Joy.”) * A well of water connotes Joy, as in the verse (Yeshaya, 12:3"
+    },
+    {
+      "source_id": "Kav HaYashar 20:4 (Kav HaYashar, trans. Metsudah Publications, 2007 [en])",
+      "snippet": "Now let us return to the topic with which we began, which was the merit of the Patriarchs in his prayers with concentration — his prayers will be cherished by the Holy One Blessed is He."
+    },
+    {
+      "source_id": "Kav HaYashar 20:4 (Kav HaYashar, trans. Metsudah Publications, 2007 [en])",
+      "snippet": "Remember the covenant of the Patriarchs and Matriarchs and the Tribes!”"
+    },
+    {
+      "source_id": "Kav HaYashar 20:4 (Kav HaYashar, trans. Metsudah Publications, 2007 [en])",
+      "snippet": "This presumes, of course, that he himself has not abrogated the covenant of the Patriarchs who walked wholeheartedly before the Holy One Blessed is He."
+    },
+    {
+      "source_id": "Kav HaYashar 20:4 (Kav HaYashar, trans. Metsudah Publications, 2007 [en])",
+      "snippet": "This prayer is very effective when recited by the righteous and wholehearted, but not by a person who has taken the twisted path and did not conduct himself as our holy Patriarchs; but rather conducts"
+    },
+    {
+      "source_id": "Likutei Moharan 42:1:7 (Likutey Moharan Volumes 1-11, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "This is the meaning of Rashi’s commentary: “when He heard their song”—in the merit of the Patriarchs."
+    },
+    {
+      "source_id": "Likutei Moharan 42:1:7 (Likutey Moharan Volumes 1-11, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "In other words, when song, which is the three colors of the rainbow, is very clear and pure—because the three colors are the Patriarchs, and they are the garments of the Shekhinah, so that when the garments"
+    },
+    {
+      "source_id": "Likutei Moharan 42:1:7 (Likutey Moharan Volumes 1-11, trans. by Moshe Mykoff. Breslov Research Inst., 1986-2012 [en])",
+      "snippet": "are radiant in ZaKuT and clarity they are called “the ZeKhuT of the Patriarchs”—then, “I will see her and remember the everlasting covenant.”"
+    },
+    {
+      "source_id": "Ohr Yisrael 30:6 (Ohr Yisrael, trans. Rabbi Irving Greenberg with Rabbi Justin Pines, 2020 [en])",
+      "snippet": "This is the meaning of the above-quoted midrashic saying: before creation took place, “the patriarchs arose in thought to be created.”"
+    },
+    {
+      "source_id": "Ohr Yisrael 30:6 (Ohr Yisrael, trans. Rabbi Irving Greenberg with Rabbi Justin Pines, 2020 [en])",
+      "snippet": "That is, the goal of creating the world in His thought, blessed be He , was to generate human beings who reach the level of the patriarchs."
+    },
+    {
+      "source_id": "Sefer Etz Chaim 9:2:20 (Sefaria Community Translation [en])",
+      "snippet": "Since the patriarchs did not die but only underwent a form of annulment, their names are not mentioned at the time of death, but only the descendants are."
+    },
+    {
+      "source_id": "Sefer Etz Chaim 9:2:20 (Sefaria Community Translation [en])",
+      "snippet": "However, to indicate that there was also some annulment within the descendants, the patriarchs' names are mentioned during their reign."
+    },
+    {
+      "source_id": "Ritva on Berakhot 26b:5 (Sefaria Community Translation [en])",
+      "snippet": "The Patriarchs Established Them And the Sages Based Them On Sacrifices."
+    },
+    {
+      "source_id": "Ritva on Berakhot 26b:5 (Sefaria Community Translation [en])",
+      "snippet": "This means that certainly the patriarchs established [prayer], but from this establishment alone we would not have been obligated to say [the prayers]."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, Prayer and Conversation 11 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "Linking the prayers to the patriarchs not only deepens their history and highlights the individual responsiveness that lies at their core, but also points to the differences between the three daily prayers"
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Chayei Sara, Prayer and Conversation 11 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "The divergent personalities and histories of the patriarchs give a unique character to each of the prayers."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Green, 1897 [en])",
+      "snippet": "The three Patriarchs. THREE Patriarchs, TWO tables of the Covenant, ONE GOD of the world. Who knows what were just FOUR? I know four. There were the four Mothers of Israel."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Green, 1897 [en])",
+      "snippet": "FOUR Mothers of Israel, THREE Patriarchs, TWO tables of the Covenant, ONE GOD of the world. Who knows what are just FIVE? I know five. There are five Books of Moses."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Green, 1897 [en])",
+      "snippet": "FIVE Books of Moses, FOUR Mothers of Israel, THREE Patriarchs, TWO tables of the Covenant, ONE GOD of the world. Who knows what are just SIX? I know six. There are six Books of the Mishnah."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Green, 1897 [en])",
+      "snippet": "SIX Books of the Mishnah, FIVE Books of Moses, FOUR Mothers of Israel, THREE Patriarchs, TWO tables of the Covenant, ONE GOD of the world. Who knows what are just SEVEN? I know seven."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Green, 1897 [en])",
+      "snippet": "EIGHT days of initiation, SEVEN days of the week, SIX Books of the Mishnah, FIVE Books of Moses, FOUR Mothers of Israel, THREE Patriarchs, TWO tables of the Covenant, ONE GOD of the world."
+    },
+    {
+      "source_id": "Bereshit Rabbah 74:12 (The Sefaria Midrash Rabbah, 2022 [en])",
+      "snippet": "my father, the God of Abraham, and the Fear of Isaac not been [ lulei ]” – Zavdi ben Levi and Rabbi Yehoshua ben Levi, Zavdi ben Levi said: Everywhere that lulei is stated, it came by the merit of the patriarchs"
+    },
+    {
+      "source_id": "Bereshit Rabbah 74:12 (The Sefaria Midrash Rabbah, 2022 [en])",
+      "snippet": "He said to him: Their very ascent was by the merit of the patriarchs, as had it not been for the merit of the patriarchs, they would not have ascended from there in peace."
+    },
+    {
+      "source_id": "Bereshit Rabbah 74:12 (The Sefaria Midrash Rabbah, 2022 [en])",
+      "snippet": "He said to him: This one, too, was by the merit of the patriarchs. Rabbi Yoḥanan said: Due to the sanctity of the Name. Rabbi Levi said: By the merit of faith and by the merit of Torah."
+    },
+    {
+      "source_id": "Bereshit Rabbah 74:12 (The Sefaria Midrash Rabbah, 2022 [en])",
+      "snippet": "“God saw my hardship and the toil of my hands” – Rabbi Yirmeya said: Labor is more beloved than the merit of the patriarchs, as the merit of the patriarchs salvaged money, while labor saved lives."
+    },
+    {
+      "source_id": "Bereshit Rabbah 74:12 (The Sefaria Midrash Rabbah, 2022 [en])",
+      "snippet": "The merit of the patriarchs salvaged money, as it is stated: “Had the God of my father…not been…[then now you would have sent me away empty-handed].”"
+    },
+    {
+      "source_id": "Kli Yakar on Exodus 6:3:6 (14362 [en])",
+      "snippet": "Rashi explains that from here we learn that they [the Patriarchs] are destined to live again and inherit the land. But his explanation is difficult due to several questions."
+    },
+    {
+      "source_id": "Kli Yakar on Exodus 6:3:6 (14362 [en])",
+      "snippet": "And all the more so at the time of resurrection, for then the world will be destroyed, so how will the Patriarchs dwell on the land?"
+    },
+    {
+      "source_id": "Kli Yakar on Exodus 6:3:6 (14362 [en])",
+      "snippet": "“I have much to lament over the death of the Patriarchs."
+    },
+    {
+      "source_id": "Kli Yakar on Exodus 6:3:6 (14362 [en])",
+      "snippet": "This is difficult no matter how you look at it: if the promise of the land was specifically to their descendants and not to the Patriarchs themselves, then why would the Patriarchs question or protest?"
+    },
+    {
+      "source_id": "Kli Yakar on Exodus 6:3:6 (14362 [en])",
+      "snippet": "After all, God never promised the Patriarchs that they would have a portion in the land. And if He did promise it also to the Patriarchs, then where is His promise?"
+    },
+    {
+      "source_id": "Zohar, Vayakhel 5:54 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "The next words, “Whosoever is of a noble heart”, are an allusion to the four superior legions that contain within themselves all the other legions; it is these who issue forth with the exalted patriarchs"
+    },
+    {
+      "source_id": "Zohar, Vayakhel 5:54 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "called “nobles”, as in the passage, “which the nobles of the people delved” , indicating the patriarchs."
+    },
+    {
+      "source_id": "Zohar, Vayechi 32:329 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "Three times a day a spirit enters the cave of Machpelah and breathes on the graves of the patriarchs, bringing them healing and strength."
+    },
+    {
+      "source_id": "Zohar, Vayechi 32:329 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "That spirit distils dew from on high, from the head of the King, the place of the supernal fathers, and when it reaches the lower patriarchs they awake."
+    },
+    {
+      "source_id": "Rabbeinu Bahya, Vayikra 26:42:8 (Torah Commentary by Rabbi Bachya ben Asher, trans. Eliyahu Munk, 1998. [en])",
+      "snippet": "In order to avoid any misunderstanding, , the Midrash which referred to the patriarchs as “daughters being raised by a governess” does not understand the reference to the patriarchs as to their celestial"
+    },
+    {
+      "source_id": "Ibn Ezra on Leviticus 26:45:2 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "Some say that the reference is to the “patriarchs of the world,” and the meaning of whom I brought forth is those to whom I swore that I would free their children from slavery."
+    },
+    {
+      "source_id": "Ibn Ezra on Leviticus 26:45:2 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "The first interpretation appears to me to be the correct one. 143 Hebrew, rishonim . 144 At first glance “the first” should refer to the patriarchs. 145 Abraham, Isaac, and Jacob. 146 God did not take"
+    },
+    {
+      "source_id": "Ibn Ezra on Leviticus 26:45:2 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "the patriarchs out of Egypt."
+    },
+    {
+      "source_id": "Derekh Chayyim 5:4:8 (Sefaria Edition 2021 by R. Francis Nataf [en])",
+      "snippet": "And that is because Yaakov is the end of the patriarchs. Since just as Avraham was the beginning of the patriarchs, so was Yaakov the culmination of the patriarchs and their end."
+    },
+    {
+      "source_id": "Abraham Cohen Footnotes to the English Translation of Masechet Berakhot 32a:6 (Tractate Berakot by A. Cohen, Cambridge University Press, 1921 [en])",
+      "snippet": "The Patriarchs."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Genesis 16:9:2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "The formulaic blessing elsewhere offered only to patriarchs such as Abraham is here also promised to the heroine Hagar . She thus receives a promise that parallels those to the patriarchs."
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VII, Letter Nun 8 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "Three patriarchs."
+    },
+    {
+      "source_id": "Sifrei Devarim 97:5 (Trans. by Marty Jaffee, 2015 [en])",
+      "snippet": "Is it possible to say that [each Israelite] is even more [beloved] than the founding Patriarchs [of Israel]?"
+    },
+    {
+      "source_id": "Sifrei Devarim 97:5 (Trans. by Marty Jaffee, 2015 [en])",
+      "snippet": "peoples who inhabit the earth” — from this verse, you may conclude that [Israel is] most [beloved] among all its predecessors and most [beloved] among all its successors, but not more than the founding Patriarchs"
+    },
+    {
+      "source_id": "Tikkunei Zohar 44b:21 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "He said to them: ‘Patriarchs! O Patriarchs! Great mountains! Listen!"
+    },
+    {
+      "source_id": "Tikkunei Zohar 54b:14 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "And the blessed Holy One had said, regarding those average-ones, that ‘the merit of the Patriarchs has finished’, since they had not returned in repentance, they are like the completely wicked, and if"
+    },
+    {
+      "source_id": "Tikkunei Zohar 54b:14 (Tiqqunei ha-Zohar, trans. by David Solomon. Margalya Press; Melbourne, 2024 [en])",
+      "snippet": "they would return in repentance, it is stated of them, that the merit of the Patriarchs does apply. lxxv See BT Shabbat 55a"
+    },
+    {
+      "source_id": "Rosh Hashanah 10b:10 (William Davidson Edition - English [en])",
+      "snippet": "It is taught in a baraita that the tanna’im disagreed about this point: Rabbi Eliezer says: In Tishrei the world was created; in Tishrei the Patriarchs were born; in Tishrei the Patriarchs died; on Passover"
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Mendes, London, 1862 [en])",
+      "snippet": "I, saith Israel, know three: there are three patriarchs, the two tables of the covenant; but One is our God who is over heaven and earth. Who knoweth four?"
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Mendes, London, 1862 [en])",
+      "snippet": "I, saith Israel, know four: there are the four matrons, three patriarchs, two tables of the covenant; but One is our God who made heaven and earth. Who knoweth five?"
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Mendes, London, 1862 [en])",
+      "snippet": "I, saith Israel, know five: there are five books of Moses, four matrons, three patriarchs, two tables of the covenant; but One is our God who is over heaven and earth. Who knoweth six?"
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Mendes, London, 1862 [en])",
+      "snippet": "I, saith Israel, know six: there are six books of the mishna, five books of the Law, four matrons, three patriarchs, two tables of the covenant; but One is our God who is over heaven and earth."
+    },
+    {
+      "source_id": "Pesach Haggadah, Nirtzah, Echad Mi Yodea 1 (Mendes, London, 1862 [en])",
+      "snippet": "I, saith Israel, know nine: nine months preceding child-birth, eight days preceding circumcision, seven days in the week, six books of the Mishnah, five books of the Law, four matrons, three patriarchs"
+    },
+    {
+      "source_id": "Ohr Ne'erav, PART VII, Letter Kof 29 (Moses Cordovero's Introduction to Kabbalah, Annotated trans. of Or ne'erav, Ira Robinson, 1994. [en])",
+      "snippet": "The three “patriarchs.”"
+    },
+    {
+      "source_id": "Ibn Ezra on Isaiah 53:12:1 (Commentary of Ibn Ezra on Isaiah - trans. by M. Friedlander, 1873 [en])",
+      "snippet": "רב chief —to signify the prophets, and understand by עצומים the strong the patriarchs."
+    },
+    {
+      "source_id": "Ibn Ezra on Isaiah 53:12:1 (Commentary of Ibn Ezra on Isaiah - trans. by M. Friedlander, 1873 [en])",
+      "snippet": "According to this explanation the meaning of the whole verse is, The merit of those that die for the unity of God, is equal to the merit of the prophets and patriarchs."
+    },
+    {
+      "source_id": "Ibn Ezra on Isaiah 53:12:1 (Commentary of Ibn Ezra on Isaiah - trans. by M. Friedlander, 1873 [en])",
+      "snippet": "I explain it as follows: I will certainly give to Israel a portion of the spoil and booty taken from many nations; 16 The prophets and patriarchs are the founders of the nation of Israel, therefore the"
+    },
+    {
+      "source_id": "Ibn Ezra on Isaiah 53:12:1 (Commentary of Ibn Ezra on Isaiah - trans. by M. Friedlander, 1873 [en])",
+      "snippet": "adjectives רבים great, and עצומים mighty are properly applied to them; but there is probably no special reason why the former should refer to the prophets and the latter to the patriarchs, and not the"
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:10 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "Perhaps the Torah is saying as follows: Since the Patriarchs are beloved to Me for not questioning My ways, that is why “I have heard the groaning of the B’nei Yisrael” — for the Patriarchs’ sake, even"
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:10 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "But it seems that [Rashi’s comment is indeed understandable, because a difficulty arises] with the Re’m’s approach that the main reason for the redemption is Hashem’s love of the Patriarchs, although the"
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:10 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "But according to the Re’m, Hashem should have replied: The miracle will come due to His love of the Patriarchs, although B’nei Yisrael are not deserving."
+    },
+    {
+      "source_id": "Chesed LeAvraham, Even Shetiya, Maayan 3 13:9 (Sefaria Community Translation [en])",
+      "snippet": "And Laban pitched his brethren - meaning, since in his cunningness, like his lips, he intended to copy Jacob, that Jacob would not merit burial in the Cave of the Patriarchs, but rather he intended to"
+    },
+    {
+      "source_id": "Chesed LeAvraham, Even Shetiya, Maayan 3 13:9 (Sefaria Community Translation [en])",
+      "snippet": "kill him, and to pitch his brethren means Esau and Ishmael, that they would merit passing through the Cave of the Patriarchs to the Garden of Eden."
+    },
+    {
+      "source_id": "Chesed LeAvraham, Even Shetiya, Maayan 3 13:9 (Sefaria Community Translation [en])",
+      "snippet": "For if, God forbid, Jacob were not buried in the Cave of the Patriarchs, none of the Israelites would pass through there, and all the nations affiliated with Esau and Ishmael would enter through there"
+    },
+    {
+      "source_id": "Chesed LeAvraham, Even Shetiya, Maayan 3 13:9 (Sefaria Community Translation [en])",
+      "snippet": "by the hands of Esau and Ishmael, who have a hold on Abraham and Isaac buried in the Cave of the Patriarchs."
+    },
+    {
+      "source_id": "Legends of the Jews 2:3:1 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "JOB--JOB AND THE PATRIARCHS"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 22:36 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "The covenant with the Patriarchs"
+    },
+    {
+      "source_id": "Weekday Siddur Sefard Linear, The Morning Prayers, Reading of the Torah 86 (The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 [en])",
+      "snippet": "the covenant with the patriarchs;"
+    },
+    {
+      "source_id": "Shabbat Siddur Sefard Linear, Prayers for Yom Tov, Ushpizin 3 (The Metsudah Siddur, Metsudah Publications, 1981 - EN [en])",
+      "snippet": "come in, esteemed holy Patriarchs,"
+    },
+    {
+      "source_id": "Machzor Yom Kippur Ashkenaz Linear, The Morning Prayers, Sanctification of the Day 95 (The Metsudah Machzor. Metsudah Publications, New York [en])",
+      "snippet": "the covenant of the Patriarchs,"
+    },
+    {
+      "source_id": "Rashi on Rosh Hashanah 11a:2:3 (Sefaria Community Translation [en])",
+      "snippet": "In Nisan the world was created, in Nisan the Patriarchs were born, in Nisan the Patriarchs died, on Passover Isaac was born, on Rosh HaShanah Sarah, Rachel, and Hannah were remembered, on Rosh HaShanah"
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Musaf, First Day of Rosh Hashana, Reader's Repetition 24 (The Metsudah Machzor. Metsudah Publications, New York -- en (paragraph ed.) [en])",
+      "snippet": "He remembers the Patriarchs, and He confers merit on [His] creatures, He is angered by the enemies [of His people]. Forever will He reign, 3 The word צוּר is found in Yeshaya in reference to Avraham."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Musaf, First Day of Rosh Hashana, Reader's Repetition 24 (The Metsudah Machzor. Metsudah Publications, New York -- en (paragraph ed.) [en])",
+      "snippet": "Thus צוּרִים, rocks, refers to the Patriarchs. See Yeshaya 51:1-2."
+    },
+    {
+      "source_id": "Rashi on Micah 6:1:1 (The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg [en])",
+      "snippet": "with the mountains —with the Patriarchs."
+    },
+    {
+      "source_id": "Contemporary Halakhic Problems, Vol IV, Chapter VII Observance of Shabbat by a Prospective Proselyte and by a Ger she Mal ve Lo Taval 31 (Contemporary halakhic problems; by J. David Bleich, 1977-2005 [en])",
+      "snippet": "Sabbath Observance by the Patriarchs"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 8:54 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "regard the covenant [with the Patriarchs]"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Second Day of the Ten Days of Penitence 12:47 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "and the love of our Patriarchs,"
+    },
+    {
+      "source_id": "Weekday Siddur Sefard Linear, Musaf for Chol Hamo'ed 340 (The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 [en])",
+      "snippet": "for the sake of the Patriarchs"
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:9 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "If the Sages hold that “I did not make known to them” means “they did not ask Me,” although He did inform the Patriarchs that His Name is Adonoy."
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:9 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "And if the Sages maintain that “I did not make known to them” follows its literal meaning, [i.e., the Patriarchs did not know the Name Adonoy at all]."
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:9 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "And the Sages added [a comment] to this, saying that the Patriarchs did not [even] ask Him [about His Name]."
+    },
+    {
+      "source_id": "Siftei Chakhamim, Exodus 6:9:9 (Sifsei Chachomim Chumash, Metsudah Publications, 2009 [en])",
+      "snippet": "For that implies that Hashem indeed informed the Patriarchs of His Name. That being so, the Sages could not add [a comment] to this, saying that the Patriarchs did not [even] ask Him about His Name."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 15; Portrait of a Biblical Personality; Exploring David's Heart in the Aftermath of Sin 162 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "By telling David that He is handicapping the test in his favor – something He did not do for the Patriarchs – God is suggesting to David that it is folly for him to request a test."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 15; Portrait of a Biblical Personality; Exploring David's Heart in the Aftermath of Sin 162 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "God presented the Patriarchs with trials that grew organically out of their lives as a function of their characters and their place in history and thus they did not know when they were being tested."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 15; Portrait of a Biblical Personality; Exploring David's Heart in the Aftermath of Sin 162 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "David has not been tested in the manner of the Patriarchs because the challenges he needs to face are not the same as theirs."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 15; Portrait of a Biblical Personality; Exploring David's Heart in the Aftermath of Sin 162 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "He is unlike the Patriarchs in temperament and he plays a different role in history."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 15; Portrait of a Biblical Personality; Exploring David's Heart in the Aftermath of Sin 162 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "Even if God tests him, as he has requested, the test will be qualitatively different from that of the Patriarchs precisely because he has requested it."
+    },
+    {
+      "source_id": "Rashi on Exodus 6:3:1 (Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 [en])",
+      "snippet": "וארא AND I APPEARED — to the patriarchs."
+    },
+    {
+      "source_id": "Rashi on Rosh Hashanah 11a:2:1 (Sefaria Community Translation [en])",
+      "snippet": "The Patriarchs were born: Abraham and Jacob."
+    },
+    {
+      "source_id": "Learning to Read Midrash, Chapter 10; Resolving a Discrepancy; Moshe and His Father's Voice 27 (Learning to Read Midrash, by Simi Peters, Urim 2004 [en])",
+      "snippet": "Father is counted with the Patriarchs,"
+    },
+    {
+      "source_id": "Machzor Yom Kippur Ashkenaz Linear, Mincha Service for Erev Yom Kippur, Shemoneh Esrei 15 (The Metsudah Machzor. Metsudah Publications, New York [en])",
+      "snippet": "Who remembers the piety of the Patriarchs,"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Second Day 4:29 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "with the three [Patriarchs] who You desired."
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 3:68 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "The oath You swore to the Patriarchs—"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 3:92 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "You made a covenant with the Patriarchs,"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 8:146 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "in the merit of the three Patriarchs,"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Erev Rosh Hashana 20:14 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "of the [Patriarchs] who sleep in Hebron,"
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Third Day of the Ten Days of Penitence 7:166 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "in the merit of the righteous patriarchs."
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Third Day of the Ten Days of Penitence 12:62 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "of the children of the three Patriarchs,"
+    },
+    {
+      "source_id": "Kitzur Ba'al HaTurim on Genesis 18:18:1 (Sefaria Community Translation [en])",
+      "snippet": "\"And Abraham\" the letter \"Heh\" is at the beginning of the verse, \"And Abraham and Sarah were old.\" Abraham will be, meaning even though Abraham and Sarah were old, Abraham will become a great nation."
+    },
+    {
+      "source_id": "Kitzur Ba'al HaTurim on Genesis 18:18:1 (Sefaria Community Translation [en])",
+      "snippet": "Abraham was old, and he was 99 years old. Abraham was a hundred years old. This means that despite the fact that Abraham and Sarah were old, Abraham would become a great nation."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity 14 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "Until Abraham, people did not grow old. However [because Abraham and Isaac looked alike] people who saw Abraham said, “That is Isaac,” and people who saw Isaac said, “That is Abraham.”"
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity 14 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "Abraham then prayed to grow old, and this is the meaning [of the phrase] “And Abraham was old.”"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 88 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "“ Abraham threw himself on his face ” [17:17]. Before Abraham was circumcised, he could not stand before the Shekhinah."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 88 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "As soon as the Holy One appeared to Abraham, Abraham fell on his face because Abraham still had the foreskin, he could not see the Holy One. That is to say, the splendor of the Holy One."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 88 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "However, after the circumcision it is written, “ Abraham remained standing before the Lord ” [18:22]. This means, Abraham still stood before the Holy One. 103 Bahya, Genesis, 17:17."
+    },
+    {
+      "source_id": "Genesis 22:1 (Torah Yesharah, translated and edited by Chas. Kahane. New York, 1963 [en])",
+      "snippet": "After Abraham had made the covenant with Abimelech, the Almighty was angry with Abraham for this, since the land belonged to the descendants of Abraham. The Almighty was angry and tested Abraham."
+    },
+    {
+      "source_id": "Genesis 22:1 (Torah Yesharah, translated and edited by Chas. Kahane. New York, 1963 [en])",
+      "snippet": "He said to him: “Abraham,” and he replied “Here I am, ready to serve.”"
+    },
+    {
+      "source_id": "Bava Metzia 87a:14 (Talmud Bavli. German trans. by Lazarus Goldschmidt, 1929 [de] [en])",
+      "snippet": "Bis Abraham gab es kein Altern; wer mit Abraham sprechen wollte, sprach mit Jiçḥaq, und wer mit Jiçḥaq sprechen wollte, sprach mit Abraham."
+    },
+    {
+      "source_id": "Bava Metzia 87a:14 (Talmud Bavli. German trans. by Lazarus Goldschmidt, 1929 [de] [en])",
+      "snippet": "Da kam Abraham und flehte um Erbarmen, und das Altern entstand, denn es heißt: Abraham war alt geworden und wohlbetagt . 153 Ib. 24,1."
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 [en])",
+      "snippet": "אברהם הוליד את יצחק ABRAHAM BEGAT ISAAC — Just because Scripture wrote, “Isaac, son of Abraham” it felt compelled to say “Abraham begat Isaac”, because the cynics of that time said, “Sarah became with"
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 [en])",
+      "snippet": "See how many years she lived with Abraham without becoming with child”. What did the Holy One, blessed be He, do?"
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 [en])",
+      "snippet": "He shaped Isaac’s facial features exactly similar to those of Abraham’s, so that everyone had to admit that Abraham begat Isaac."
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934 [en])",
+      "snippet": "This is what is stated here: that Isaac was the son of Abraham, for there is evidence that Abraham begat Isaac ."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 25:23:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "Via a prophet, or through Abraham himself, for Abraham did not pass away until her sons were fifteen years of age. 40 Abraham begot Isaac at the age of 100 ."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 25:23:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "Abraham lived 175 years . Thus Jacob and Esau were 15 when Abraham died."
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": "Abraham zeugte Jizchak nachdem der Heilige, gelobt sei Er, ihm den Namen Abraham gegeben, zeugte er Jizchak; andere Erklärung, dadurch, dass der Vers geschrieben hat, Jizchaks, des Sohnes von Abraham,"
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": "musste er sagen, Abraham zeugte Jizchak, weil die Spötter jenes Zeitalters sagten, durch Abimelech ist Sara Mutter geworden; denn so viele Jahre wohnte sie mit Abraham zusammen und wurde nicht Mutter"
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": "Er formte die Gesichtszüge Jizchaks gleich denen Abrhams, so dass jeder bezeugte, Abraham ist der Vater von Jizchak; und das bedeuten hier die Worte: Jizchak war der Sohn Abrahams; denn es wird bezeugt"
+    },
+    {
+      "source_id": "Rashi on Genesis 25:19:2 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": ", dass Abraham der Vater von Jizchak war ."
+    },
+    {
+      "source_id": "Bava Metzia 87a:14 (William Davidson Edition - English [en])",
+      "snippet": "§ The Gemara continues discussing Abraham: Until Abraham, there was no aging, i.e., old age was not physically recognizable."
+    },
+    {
+      "source_id": "Bava Metzia 87a:14 (William Davidson Edition - English [en])",
+      "snippet": "Consequently, one who wanted to speak to Abraham would mistakenly speak to Isaac, and vice versa: An individual who wanted to speak to Isaac would speak to Abraham, as they were indistinguishable."
+    },
+    {
+      "source_id": "Bava Metzia 87a:14 (William Davidson Edition - English [en])",
+      "snippet": "Abraham came and prayed for mercy, and aging was at last noticeable, as it is stated: “And Abraham was old, well stricken in age” , which is the first time that aging is mentioned in the Bible."
+    },
+    {
+      "source_id": "Legends of the Jews 1:6:34 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "Abraham had to leave his birthplace; so also Isaac. Abraham was exposed to the risk of losing his wife; so also Isaac. The Philistines were envious of Abraham; so also of Isaac."
+    },
+    {
+      "source_id": "Legends of the Jews 1:6:34 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "Abraham long remained childless; so also Isaac. Abraham begot one pious son and one wicked son; so also Isaac."
+    },
+    {
+      "source_id": "Legends of the Jews 1:6:34 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "And, finally, as in the time of Abraham, so also in the time of Isaac, a famine came upon the land."
+    },
+    {
+      "source_id": "Targum Jerusalem, Genesis 22:11 (Targum Jerusalem, trans. J. W. Etheridge, London, 1862 [en])",
+      "snippet": "And He said, Abraham! Abraham! And Abraham answered in the language of the sanctuary, and said, Behold me."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Vayera, Challenging God 17 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "It is clear that this speech of God is an invitation to Abraham to speak. What else can be the meaning of “Shall I hide from Abraham what I am about to do?”"
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Vayera, Challenging God 17 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "Not only does God invite Abraham to speak; he even signals in advance the words he wants Abraham to use – “right” and “just” ."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Vayera, Challenging God 17 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "These constitute “the way of the Lord” that God wants Abraham to teach his children."
+    },
+    {
+      "source_id": "Genesis 25:19 (The Rashi chumash by Rabbi Shraga Silverstein [en])",
+      "snippet": "And these [ ] are the progeny of Isaac the son of Abraham. Abraham begot Isaac [i.e., After he was called \"Abraham,\" he begot Isaac]."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis, Introduction 4 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "deal kindly with thy servant Abraham. 2 The first Abraham refers to the patriarch, the second to the author, Abraham son of Meir."
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Toldot, Torah Ohr 47 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "Having this in mind, we can understand an enigmatic Midrash Rabbah Genesis 63,3 on this פרשה: \"These are the descendants of Isaac the son of Abraham, Abraham begat Isaac."
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Toldot, Torah Ohr 47 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "Abraham was called Abraham; Isaac was called Abraham for the Torah says \"these are the descendants of Abraham, Abraham.\""
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Toldot, Torah Ohr 47 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "Abraham is called Israel.\" Rabbi Natan added that there is a profound meaning in: ומושב בני ישראל אשר ישבו במצרים ובארץ כנען ובארץ גשן שלושים שנה וארבע מאות שנה."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 18:22 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "The men turned from there, after being escorted by Abraham, and went to Sodom; and Abraham was still standing before the Lord."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 18:22 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "The revelation or conversation between God and Abraham was still in progress. Alternatively, this phrase has the same meaning as: The Lord was still standing before Abraham."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Postbiblical Interpretations, Chayei Sara 2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "Abraham was old, well advanced in years . Abraham was profoundly affected by Sarah’s death, according to the Rabbis."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Postbiblical Interpretations, Chayei Sara 2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "While she was alive, he felt himself young and vigorous, but after she had passed away, old age suddenly overtook him . | According to the Talmud, “Until Abraham there was no physical aging; people would"
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Postbiblical Interpretations, Chayei Sara 2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "confuse Abraham with his son Isaac because they looked so similar."
+    },
+    {
+      "source_id": "The Torah; A Women's Commentary, Postbiblical Interpretations, Chayei Sara 2 (CCAR Press and Women of Reform Judaism, 2008 [en])",
+      "snippet": "Thereupon Abraham prayed and the physical manifestations of old age came into existence” ."
+    },
+    {
+      "source_id": "Genesis 22:11 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham Passes the Test An angel of G OD then called to him from heaven and said affectionately , “Abraham! Abraham!” and he replied, “Here I am.”"
+    },
+    {
+      "source_id": "Rashi on I Chronicles 1:27:1 (The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg [en])",
+      "snippet": "Abram; he is Abraham Now he traced the lineage from Shem to Abraham, and who is this Abram? He is the one who was called Abraham."
+    },
+    {
+      "source_id": "Return; Daily Inspiration for the Days of Awe, Day Two; Destiny 6 (Return, daily inspiration for the Days of Awe, Erica Brown. Jerusalem, Maggid Books, 2012 [en])",
+      "snippet": "Abraham said “ Hineni ” one more time, after an angel called his name twice to stay his knife-wielding hand. It took one mention of Abraham’s name to begin his mission but two to stop it."
+    },
+    {
+      "source_id": "Return; Daily Inspiration for the Days of Awe, Day Two; Destiny 6 (Return, daily inspiration for the Days of Awe, Erica Brown. Jerusalem, Maggid Books, 2012 [en])",
+      "snippet": "Abraham looked up, trying to find a replacement for the child he never sacrificed."
+    },
+    {
+      "source_id": "Return; Daily Inspiration for the Days of Awe, Day Two; Destiny 6 (Return, daily inspiration for the Days of Awe, Erica Brown. Jerusalem, Maggid Books, 2012 [en])",
+      "snippet": "Although the narrative is all about following directions, and although Abraham stated unambiguously that God would show them the sheep for sacrifice, it was actually Abraham who identified the animal."
+    },
+    {
+      "source_id": "Return; Daily Inspiration for the Days of Awe, Day Two; Destiny 6 (Return, daily inspiration for the Days of Awe, Erica Brown. Jerusalem, Maggid Books, 2012 [en])",
+      "snippet": "“When Abraham looked up, his eye fell upon a ram caught in the thicket by its horns. Abraham offered it up as a burnt offering in place of his son” ."
+    },
+    {
+      "source_id": "Return; Daily Inspiration for the Days of Awe, Day Two; Destiny 6 (Return, daily inspiration for the Days of Awe, Erica Brown. Jerusalem, Maggid Books, 2012 [en])",
+      "snippet": "And then, in the biblical tradition of renaming a location after an act of divine revelation, Abraham renamed the place where he stood: “And Abraham named that site Adonai-yireh, as it is called to this"
+    },
+    {
+      "source_id": "English Explanation of Pirkei Avot 5:2:3 (Mishnah Yomit by Dr. Joshua Kulp [en])",
+      "snippet": "[There were] ten generations from Noah to Abraham, in order to make known what long-suffering is His; for all those generations kept on provoking Him, until Abraham, came and received the reward of all"
+    },
+    {
+      "source_id": "English Explanation of Pirkei Avot 5:2:3 (Mishnah Yomit by Dr. Joshua Kulp [en])",
+      "snippet": "This section is a little more difficult to explain, for what does the phrase, “Abraham came and received the reward of all of them” mean."
+    },
+    {
+      "source_id": "English Explanation of Pirkei Avot 5:2:3 (Mishnah Yomit by Dr. Joshua Kulp [en])",
+      "snippet": "Rashi explains that Abraham received the reward that they would have received had they repented. Others explain that based upon the merit of Abraham God did not destroy again the whole world."
+    },
+    {
+      "source_id": "English Explanation of Pirkei Avot 5:2:3 (Mishnah Yomit by Dr. Joshua Kulp [en])",
+      "snippet": "Abraham taught them that repentance was possible and therefore God did not destroy the world."
+    },
+    {
+      "source_id": "English Explanation of Pirkei Avot 5:2:3 (Mishnah Yomit by Dr. Joshua Kulp [en])",
+      "snippet": "A third explanation is that Abraham received the reward that they all would have received had they learned from him the principles of monotheism."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Vayera, God and Strangers 2 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "God appears to Abraham. Three strangers pass by. Abraham offers them hospitality. One of them tells Abraham that Sarah will have a child. Sarah, overhearing, laughs in disbelief."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Vayera, God and Strangers 11 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "Verse 1:God appears to Abraham. Verses 2–16:Abraham meets the men/angels. Verses 17–33: The dialogue between God and Abraham about the fate of Sodom."
+    },
+    {
+      "source_id": "Berakhot 13a:8 (William Davidson Edition - English [en])",
+      "snippet": "Also, with regard to Abraham’s name, bar Kappara taught: Anyone who calls Abraham Abram transgresses a positive mitzva, as it is stated: “And your name will be Abraham” ."
+    },
+    {
+      "source_id": "Berakhot 13a:8 (William Davidson Edition - English [en])",
+      "snippet": "This is a positive mitzva to refer to him as Abraham."
+    },
+    {
+      "source_id": "Berakhot 13a:8 (William Davidson Edition - English [en])",
+      "snippet": "Rabbi Eliezer says: One who calls Abraham Abram transgresses a negative mitzva, as it is stated: “And your name shall no longer be called Abram, and your name will be Abraham, for I have made you the father"
+    },
+    {
+      "source_id": "Targum Jonathan on Genesis 25:19 (The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 [en])",
+      "snippet": "These are the generations of Izhak bar Abraham. And because the appearance of Izhak resembled the appearance of Abraham, the sons of men said, In truth Abraham begat Izhak."
+    },
+    {
+      "source_id": "Bereshit Rabbah 40:6 (10191 [en])",
+      "snippet": "Und Abraham tat er Gutes um ihretwillen u.s.w. und Pharao entbot Männer. R. Pinchas sagte im Namen des Hosaja des Großen: Gott sprach zu unserm Vater Abraham: Geh und ebne den Weg vor deinen Kindern!"
+    },
+    {
+      "source_id": "Bereshit Rabbah 40:6 (10191 [en])",
+      "snippet": "Von Abraham heißt es hier: Es war eine Hungersnot im Lande, von Israel heißt es auch Gen. 45:6: Dies sind die zwei Jahre Hungersnot; von Abraham heißt es: Er zog nach Ägypten, um dort zu wohnen, von den"
+    },
+    {
+      "source_id": "Bereshit Rabbah 40:6 (10191 [en])",
+      "snippet": ", um in dem Lande zu wohnen; von Abraham heißt es: die Hungersnot drückte das Land schwer, von den Israeliten heißt es auch Gen. 43:1: Die Hungersnot war schwer im Lande; von Abraham heißt es: Als er sich"
+    },
+    {
+      "source_id": "Bereshit Rabbah 40:6 (10191 [en])",
+      "snippet": "neugeborne Sohn soll ins Wasser geworfen werden; von Abraham heißt es: Sage doch, du seist meine Schwester, von den Israeliten heißt es das. 1:20: Gott ließ es den Hebammen wohlgehen; von Abraham heißt"
+    },
+    {
+      "source_id": "Bereshit Rabbah 40:6 (10191 [en])",
+      "snippet": "es: AIs er nach Ägypten kam, von den Israeliten heißt es auch das. 1:1: Dies sind die Namen der Kinder Israel, die nach Ägypten kamen; von Abraham heißt es Gen. 13:2: Abraham war reich an Heerden, von"
+    },
+    {
+      "source_id": "Genesis 26:24 (THE JPS TANAKH: Gender-Sensitive Edition [en])",
+      "snippet": "That night G OD appeared to him and said, “I am the God of your father Abraham."
+    },
+    {
+      "source_id": "Genesis 26:24 (THE JPS TANAKH: Gender-Sensitive Edition [en])",
+      "snippet": "Fear not, for I am with you, and I will bless you and increase your offspring for the sake of My servant Abraham.” e appeared to See note at 12.7 . f your father Abraham I.e., Abraham and his household"
+    },
+    {
+      "source_id": "Genesis 18:22 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "But Abraham knew full well that the inhabitants of the cities of the plain were corrupt."
+    },
+    {
+      "source_id": "Genesis 18:22 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "The men he was escorting turned from the place to which Abraham had accompanied them and headed toward Sodom, while Abraham was still standing before G OD , listening to His words ."
+    },
+    {
+      "source_id": "Genesis 18:22 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham understood that these men were on their way to destroy Sodom."
+    },
+    {
+      "source_id": "Lessons in Leadership; A Weekly Reading of the Jewish Bible, Hayei Sara; Beginning the Journey 11 (Maggid Books and the Orthodox Union, 2015 [en])",
+      "snippet": "God promised Abraham the land, but he had to buy the first field."
+    },
+    {
+      "source_id": "Lessons in Leadership; A Weekly Reading of the Jewish Bible, Hayei Sara; Beginning the Journey 11 (Maggid Books and the Orthodox Union, 2015 [en])",
+      "snippet": "God promised Abraham many descendants, but Abraham had to ensure that his son was married, and to a woman who would share the life of the covenant, so that Abraham would have, as we say today, “Jewish"
+    },
+    {
+      "source_id": "Zevach Pesach on Pesach Haggadah, Magid, In the Beginning Our Fathers Were Idol Worshipers 1:2 (Zevach Pesach, translated by Rabbi Mark B. Greenspan, Oceanside, N.Y. 2019 [en])",
+      "snippet": "God showed Abraham compassion by promising him a land, a faith, and offspring."
+    },
+    {
+      "source_id": "Zevach Pesach on Pesach Haggadah, Magid, In the Beginning Our Fathers Were Idol Worshipers 1:2 (Zevach Pesach, translated by Rabbi Mark B. Greenspan, Oceanside, N.Y. 2019 [en])",
+      "snippet": "First it states that it brought him to faith, stating, “the Ever-Present has brought us to God's service,” since this was the greatest gift which God gave Abraham."
+    },
+    {
+      "source_id": "Zevach Pesach on Pesach Haggadah, Magid, In the Beginning Our Fathers Were Idol Worshipers 1:2 (Zevach Pesach, translated by Rabbi Mark B. Greenspan, Oceanside, N.Y. 2019 [en])",
+      "snippet": "Regarding Abraham, it states: “I took your father, Abraham.” Even though he had other brothers, God chose Abraham and abandoned Nachor."
+    },
+    {
+      "source_id": "Zevach Pesach on Pesach Haggadah, Magid, In the Beginning Our Fathers Were Idol Worshipers 1:2 (Zevach Pesach, translated by Rabbi Mark B. Greenspan, Oceanside, N.Y. 2019 [en])",
+      "snippet": "Bringing Abraham close meant that God chose Abraham and brought him to His service. Without a doubt true, this is true!"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 18:17:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "G'd had another reason to reveal to Abraham what He had in mind for Sodom, seeing it had been Abraham who had saved the people of those cities at the risk of his own life when he rescued Lot."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 18:17:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Inasmuch as Abraham thought that these people were safe, G'd thought He owed it to Abraham to inform him about His plans for them."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 18:17:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "He did not have to spell out what it was that He would conceal from Abraham as this is self-evident."
+    },
+    {
+      "source_id": "Yalkut Shimoni on Torah 110:8 (Sefaria Community Translation [en])",
+      "snippet": "The field that Abraham bought from the children of Chet etc --- R Tanchuma said: from the burial of Sarah to the burial of Abraham was 38 years...... it comes to teach you that all who gave kindness with"
+    },
+    {
+      "source_id": "Yalkut Shimoni on Torah 110:8 (Sefaria Community Translation [en])",
+      "snippet": "Sarah merited to give kindness with Abraham."
+    },
+    {
+      "source_id": "Yalkut Shimoni on Torah 110:8 (Sefaria Community Translation [en])",
+      "snippet": "R Shmuel bar Nachman said Shem and Ever were proceeding before [Abraham's] deathbed and the saw which place to direct Abraham our father and they buried him in his [specific] compartment."
+    },
+    {
+      "source_id": "Yalkut Shimoni on Torah 110:8 (Sefaria Community Translation [en])",
+      "snippet": "And it was after death of Abraham, Elokim blessed Isaac."
+    },
+    {
+      "source_id": "Weekday Siddur Sefard Linear, The Morning Prayers, Akeidah (The Binding of Isaac) 69 (The Metsudah siddur: a new linear siddur with English translation by Avrohom Davis, 1981 [en])",
+      "snippet": "and said, \"Abraham! Abraham!\""
+    },
+    {
+      "source_id": "Shabbat Siddur Sefard Linear, The Morning Prayers, Akeidah (The Binding of Isaac) 70 (The Metsudah Siddur, Metsudah Publications, 1981 - EN [en])",
+      "snippet": "and said, “Abraham! Abraham!”"
+    },
+    {
+      "source_id": "Book of Jubilees 23:9 (The Book of Jubilees, trans. R. H. Charles. London [1917] [en])",
+      "snippet": "and Ishmael his son arose, and went to Abraham his father, and wept over Abraham his father, he and all the house of Abraham, and they wept with a great weeping."
+    },
+    {
+      "source_id": "Tractate Derekh Eretz Rabbah 5:1 (The Minor Tractates of the Talmud, trans. A. Cohen, London: Soncino Press, 1965 [en])",
+      "snippet": "All can learn such good manners from the All-present, Who said, as it were, to Abraham, ‘I am now leaving’, as it is stated, And the Lord went His way , as soon as He had left off speaking to Abraham;"
+    },
+    {
+      "source_id": "Tractate Derekh Eretz Rabbah 5:1 (The Minor Tractates of the Talmud, trans. A. Cohen, London: Soncino Press, 1965 [en])",
+      "snippet": "and Abraham returned unto his place . 1 God notified Abraham that He was departing. 2 Gen. 18, 33."
+    },
+    {
+      "source_id": "Tractate Derekh Eretz Rabbah 5:1 (The Minor Tractates of the Talmud, trans. A. Cohen, London: Soncino Press, 1965 [en])",
+      "snippet": "V’s reading is: ‘Who said to Abraham, “Abraham, has he any further need of Me?” He said before Him, “Lord of the Universe, no” ’."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 30 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Sarah lied, saying that she did not mock and Abraham said, you did lie. Abraham came to Sarah and said to her: why did you mock? Cannot God do wonders that we should have children?"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 30 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "How does Abraham know that I laughed? He must have noticed that I laughed or perhaps because I was silent and did not praise God for the good news?"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 30 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham did not tell Sarah that the Holy One complained about Sarah that she was mocking, but Sarah thought that Abraham knew on his own that Sarah mocked."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 30 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Therefore, Sarah lied to Abraham and said: I did not mock. Then Abraham again strongly said to Sarah: you did mock."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 30 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Sarah then understood that Abraham must have heard it from the Holy One that she mocked. That is why she was silent."
+    },
+    {
+      "source_id": "Ibn Ezra on Exodus 3:16:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "Scripture reads, the God of Abraham because God made a covenant with Abraham to give him the land of Canaan. 378 The name God is not repeated in our verse with Isaac or with Jacob. 379 Canaan was first"
+    },
+    {
+      "source_id": "Ibn Ezra on Exodus 3:16:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "promised to Abraham ."
+    },
+    {
+      "source_id": "Ibn Ezra on Exodus 3:16:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "God then promised Isaac and Jacob that he would keep the promise made to Abraham ."
+    },
+    {
+      "source_id": "Zohar, Toldot 1:7 (Sefaria Community Translation [en])",
+      "snippet": "For although it is written, \"Elohim blessed his son Isaac,\" Abraham is now dead; the image of Abraham was upon Isaac and stayed with him so that whoever saw Isaac said, \"this is surely Abraham,\" and pronounced"
+    },
+    {
+      "source_id": "Zohar, Toldot 1:7 (Sefaria Community Translation [en])",
+      "snippet": "that Abraham begat Isaac."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 140 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham took the knife in his hand. A great shout came down from heaven: Abraham, Abraham, do not touch Isaac or slaughter him. Abraham said: let me at least cause a little blood to flow."
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Vayetzei, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "When we are told in Bereshit Rabbah 63,2 that it was Jacob who saved Abraham from the furnace of Nimrod, based on the verse in Isaiah 29,22: יעקב אשר פדה את אברהם, \"Jacob who liberated Abraham,\" this does"
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Vayetzei, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "not mean that Jacob's merits were greater that those of Abraham."
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Vayetzei, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "This could not be, since Abraham's spiritual power was certainly greater than that of any other patriarch and we commence our daily עמידה prayers invoking first and foremost the merits of Abraham, and"
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Vayetzei, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "we sign the benediction with the words \"G–d the shield of Abraham.\""
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 21 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "When Abraham arrived in Egypt. We hear in this verse that Abraham came to Egypt alone. It is difficult , where was Sarah? The explanation is that Abraham had hidden Sarah in a chest."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 21 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "It happened that they wanted the taxes from Abraham. The tax collector said: open the chest. I want to see what kind of merchandise you have in there. Abraham had to open it."
+    },
+    {
+      "source_id": "On Dreams, Book I 34:4 (Loeb Classical Library, Harvard University Press, 1934 [en])",
+      "snippet": "[195] For when he was at the beginning we are told “God did prove Abraham, and said unto him, ‘Abraham, Abraham’; and he said ‘Here am I.’"
+    },
+    {
+      "source_id": "On Dreams, Book I 34:4 (Loeb Classical Library, Harvard University Press, 1934 [en])",
+      "snippet": "He said, ‘Take thy beloved son, whom thou lovedst, even Isaac, and offer him up.’ ” And when he had now brought the victim to the altar, then “an angel of the Lord called to him out of heaven, saying ‘Abraham"
+    },
+    {
+      "source_id": "On Dreams, Book I 34:4 (Loeb Classical Library, Harvard University Press, 1934 [en])",
+      "snippet": ", Abraham.’"
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity 9 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "See how many years she lived with Abraham without being able to have a child by him.” What did the Holy One blessed be He do?"
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity 9 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "He made Isaac’s facial features exactly resemble those of Abraham, so that everyone had to admit that Abraham begat Isaac."
+    },
+    {
+      "source_id": "Covenant and Conversation; Genesis; The Book of the Beginnings, Toldot, On Clones and Identity 9 (Maggid Books and the Orthodox Union, 2009-2019 [en])",
+      "snippet": "This is what is meant by the words “Abraham begat Isaac” – there was clear evidence that Abraham was Isaac’s father. 1 .Rashi to Bereshit 25:19, on the basis of Bava Metzia 87a."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 21:25 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "On this same occasion, Abraham reprimanded Avimelekh with regard to the well of water that Avimelekh’s servants had stolen."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 21:25 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "Abraham had previously dug a well, which Avimelekh’s servants then took by force."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 21:25 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "Abraham had not complained at that point, but once he was negotiating a covenant with Avimelekh, he decided to raise the matter."
+    },
+    {
+      "source_id": "Steinsaltz on Genesis 21:25 (The Steinsaltz Tanakh - English [en])",
+      "snippet": "Since Avimelekh had publicly declared that he had a positive relationship with Abraham and had treated him with kindness, Abraham found it appropriate to note the unresolved issues in their relationship"
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 12:1:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "God commanded Abraham while he was yet in Ur of the Chaldees to leave his country, his place of birth and also his father’s house."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 12:1:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "to separate himself from his father. 2 Terah was 70 when Abraham was born ."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 12:1:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "Abraham was 75 when he left Haran . Terah was thus 145 when Abraham left him. Terah lived 205 years . Hence Terah lived another 60 years after Abraham left Haran."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 12:1:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "The Bible tells us how old Abraham was when he left Haran but does not tell us his age when he left Ur of the Chaldees. Had the Bible told us this, we would then know how long Abraham dwelt in Haran."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 12:1:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "According to this interpretation God did not at this point reveal to Abraham his ultimate destination."
+    },
+    {
+      "source_id": "I Believe; A Weekly Reading of the Jewish Bible, Lekh Lekha; A Palace in Flames 18 (OU Press, The Rabbi Sacks Legacy, Maggid Books, 2022 [en])",
+      "snippet": "That is why He chose Abraham. Abraham was the first person in recorded history to protest the injustice of the world in the name of God, rather than accept it in the name of God."
+    },
+    {
+      "source_id": "I Believe; A Weekly Reading of the Jewish Bible, Lekh Lekha; A Palace in Flames 18 (OU Press, The Rabbi Sacks Legacy, Maggid Books, 2022 [en])",
+      "snippet": "Abraham was the man who said: “Shall the Judge of all the earth not do justice?” Where Noah accepted, Abraham did not."
+    },
+    {
+      "source_id": "I Believe; A Weekly Reading of the Jewish Bible, Lekh Lekha; A Palace in Flames 18 (OU Press, The Rabbi Sacks Legacy, Maggid Books, 2022 [en])",
+      "snippet": "Abraham is the man of whom God said, “I have chosen him, so that he will direct his children and his household after him to keep the way of the Lord by doing what is right and just.”"
+    },
+    {
+      "source_id": "I Believe; A Weekly Reading of the Jewish Bible, Lekh Lekha; A Palace in Flames 18 (OU Press, The Rabbi Sacks Legacy, Maggid Books, 2022 [en])",
+      "snippet": "Abraham was the father of a nation, a faith, a civilisation, marked throughout the ages by what Albert Einstein called “an almost fanatical love of justice.”"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 12:3:6 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "This is the difference between people who bless you and those that are indifferent to you, neither blessing Abraham not cursing him."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 12:3:6 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "G'd will bless directly anyone who blesses Abraham; the ones who do not bless Abraham will receive only an indirect blessing, i.e. via Abraham."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 76 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "“ God was mindful of Abraham ” [19:29]. The Holy One thought about the good that Lot had done for Abraham that he did not reveal that Sarah was his wife, since Lot was always with Abraham."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 76 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Lot had heard how Abraham asked Sarah that she should not say that she was Abraham’s wife, and Lot did not reveal it. 81 Rashi, Genesis, 19:29."
+    },
+    {
+      "source_id": "Berakhot 13a:4 (William Davidson Edition - English [en])",
+      "snippet": "Having mentioned the changing of Jacob’s name, the Gemara addresses the changing of the names of Abraham and Sarah. What is the meaning of changing Abram’s name to Abraham?"
+    },
+    {
+      "source_id": "Berakhot 13a:4 (William Davidson Edition - English [en])",
+      "snippet": "As it is stated: “Abram is Abraham” ."
+    },
+    {
+      "source_id": "Book of Jubilees 24:22 (The Book of Jubilees, trans. R. H. Charles. London [1917] [en])",
+      "snippet": "Now all the wells which the servants of Abraham had dug during the life of Abraham, the Philistines had stopped them after the death of Abraham, and filled them with earth."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Reading of the Torah, Reading of the Torah for the Second Day 4 (10516 [en])",
+      "snippet": "Y llegaron al lugar que le dijo Dios, erigió allí Abraham el altar y ordenó sobre él la leña, ató a Isaac su hijo, y le puso sobre el altar encima de la leña."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Reading of the Torah, Reading of the Torah for the Second Day 4 (10516 [en])",
+      "snippet": "Extendió Abraham su mano y prendió el cuchillo para degollar a su hijo. Pero el ángel de Dios le llamó desde los cielos, y dijo: “Abraham, Abraham”, y éste dijo: “Heme aquí”."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Reading of the Torah, Reading of the Torah for the Second Day 4 (10516 [en])",
+      "snippet": "Alzó Abraham los ojos, y vio y he aquí un carnero, que después se enredó por sus cuernos en la espesura, y fue Abraham y tomó el carnero, y le ofreció en holocausto, en sustituto de su hijo."
+    },
+    {
+      "source_id": "Machzor Rosh Hashanah Ashkenaz, Reading of the Torah, Reading of the Torah for the Second Day 4 (10516 [en])",
+      "snippet": "Llamó Abraham al lugar aquél: “Adonai-Iré”, que se llama hasta hoy: “En el monte de Adonai-Ieraé”."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Bamidbar 20 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Hizkuni and Zeror ha-Mor write that on the banner was written the names of Abraham, Isaac and Jacob."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Bamidbar 20 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The first banner, that of Reuben had three letters , an aleph that alluded to Abraham, a yud that alluded to Isaac, and a yud that alluded to Jacob."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Bamidbar 20 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "On the second banner was written three other letters that alluded to the second three letters of Abraham, Isaac, and Jacob , a bet , a zadi , and an ayin."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Bamidbar 20 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "They alluded to the third letter of Abraham, Isaac, and Jacob , a resh , a het , and a kuf. The fourth banner alluded to the fourth letters of Abraham, Isaac and Jacob , a mem , a kuf , and a bet."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Bamidbar 20 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "A heh was deleted, since Abraham has five letters. The cloud over Israel was shaped like the letter heh and it was the heh of Abraham."
+    },
+    {
+      "source_id": "Sefer HaYashar (midrash), Book of Genesis, Vayera 13 (Sefer ha-Yashar,  trans. Edward B.M. Browne, New York, 1876 [en])",
+      "snippet": "And at that time Ishmael took his wife and his children, and his cattle, and all belonging to him, and went forth into the land of the Philistines to his father Abraham, and Abraham related unto his son"
+    },
+    {
+      "source_id": "Sefer HaYashar (midrash), Book of Genesis, Vayera 13 (Sefer ha-Yashar,  trans. Edward B.M. Browne, New York, 1876 [en])",
+      "snippet": "And Ishmael and his children tarried with Abraham for many days in the land of the Philistines."
+    },
+    {
+      "source_id": "Sefer HaYashar (midrash), Book of Genesis, Vayera 13 (Sefer ha-Yashar,  trans. Edward B.M. Browne, New York, 1876 [en])",
+      "snippet": "And Abraham and his servants dug there wells of water, and Abraham and all belonging to him dwelt around the water."
+    },
+    {
+      "source_id": "Sefer HaYashar (midrash), Book of Genesis, Vayera 13 (Sefer ha-Yashar,  trans. Edward B.M. Browne, New York, 1876 [en])",
+      "snippet": "And when Abimelech, king of the Philistines, heard these things, he and Fichol his commander-in-chief and twenty of his men came unto Abraham, and Abimelech spoke unto Abraham concerning his servants."
+    },
+    {
+      "source_id": "Sefer HaYashar (midrash), Book of Genesis, Vayera 13 (Sefer ha-Yashar,  trans. Edward B.M. Browne, New York, 1876 [en])",
+      "snippet": "And Abimelech accepted the seven sheep as also flocks and herds in great numbers which Abraham gave unto him, and Abimelech swore unto Abraham in regard to that well."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 22:1:3 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "He said to him: \"Abraham.\" This introductory call by G'd was to prepare Abraham that G'd would ask him to do something difficult. Abraham understood this; this is why he said \"I am ready .\""
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 25:19:7 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Still another meaning may be gleaned from the wording \"Abraham begat Isaac.\""
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 25:19:7 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Whereas Isaac did indeed match Abraham in good deeds, he could not receive the same credit since he had his father as an example and could model himself accordingly. Abraham was unique."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 25:19:7 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "This was the reason that the prophet Isaiah quotes G'd as describing Abraham as \"the one who loved Him.\""
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 25:19:7 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Abraham had had to initiate this love towards his Creator without the Creator having served as a guiding light for him first."
+    },
+    {
+      "source_id": "Bat Ayin, Lech Lecha 1 (Sefaria Community Translation [en])",
+      "snippet": "Our Rabbis of blessed memory said : There was no one who called the Holy One, blessed be He, \"Lord\" until Abraham came and called Him \"Lord.\""
+    },
+    {
+      "source_id": "Bat Ayin, Lech Lecha 1 (Sefaria Community Translation [en])",
+      "snippet": "The matter is that Abraham began to call Him by the name \"Lord,\" the aspect of Malkhut , for Abraham accepted upon himself the aspect of His Kingship, blessed be He."
+    },
+    {
+      "source_id": "Bat Ayin, Lech Lecha 1 (Sefaria Community Translation [en])",
+      "snippet": "But before Abraham, there was no one who would call Him \"Lord\" such that His Kingship would be uniquely established over him, except over Abraham."
+    },
+    {
+      "source_id": "Hasagot HaRa'avad on Mishneh Torah, Foreign Worship and Customs of the Nations 1:3:1 (Mishnah Torah, Yod ha-hazakah, trans. by Simon Glazer, 1927 [en])",
+      "snippet": "And when Abraham was forty years old etc. There is an Agadah that he was three years old, as it is said: 'Because that Abraham hearkened unto My voice' ."
+    },
+    {
+      "source_id": "Hasagot HaRa'avad on Mishneh Torah, Foreign Worship and Customs of the Nations 1:3:1 (Mishnah Torah, Yod ha-hazakah, trans. by Simon Glazer, 1927 [en])",
+      "snippet": "Thus God says: 'EKB, or 172 years, that Abraham hearkened unto My voice."
+    },
+    {
+      "source_id": "Hasagot HaRa'avad on Mishneh Torah, Foreign Worship and Customs of the Nations 1:3:1 (Mishnah Torah, Yod ha-hazakah, trans. by Simon Glazer, 1927 [en])",
+      "snippet": "Abraham lived 175 years; deducting the three years before he recognized God, leaves 172. * This is no criticism at all, as Maimonides herein outlines that Abraham commenced thinking of God as soon as he"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:2:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Sarah became pregnant and bore a son for Abraham. The Torah needed to mention the pregnancy because we had learned that Sarah did not have a womb."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:2:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "The reason the Torah underlines לאברהם is to make it clear that only this son is to be viewed as an extension of Abraham, not Ishmael, as we read later in 21,12."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:2:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Even though the Torah described Hagar as bearing a son \"for Abraham\" , the fact is that at that time Abraham was still called Abram."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:2:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Once his name was changed, Abraham was no longer to be referred to by his original name. This means inter alia that Ishmael was not a son of Abraham."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:2:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Perhaps the statement in Berachot 13 that someone who calls Abraham Abram is guilty of violating a positive commandment is precisely for that reason."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 28 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The Holy One said to Abraham: why did Sarah mock that she said: how should she have children when she is old? The Holy One said something different before Abraham than what Sarah had said."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 28 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The Holy One said to Abraham that Sarah said that she was too old to have children. The explanation is that the Holy One did not want to create any hostility between Abraham and Sarah."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 28 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham would have been offended had Sarah said about Abraham that he was too old to have children. Every man, even when he is old, makes himself young for his wife and the wife also for her husband."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 28 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Therefore, the Holy One did not want to tell Abraham that Sarah said about Abraham that he was too old to have children."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Haftarot, Lech Lecha 9 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Who awakened Abraham to come from Aram in the east , from the house of false gods? Abraham called to the people to assemble and convert in all the cities that he visited. This is what Abraham did."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Haftarot, Lech Lecha 9 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Who awakened him, that Abraham did not fear kings? Surely I, God, did this. “ He delivers up nations to him and tramples kings underfoot, etc. ” [41:2]."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Haftarot, Lech Lecha 9 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Who gave that nations and kings should fall at the feet of Abraham. That is to say, Abraham conquered four kings and Abraham had few people with him."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Haftarot, Lech Lecha 9 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The Holy One caused that the sword of Abraham made all the nations fall, like ash falls to the earth."
+    },
+    {
+      "source_id": "Ibn Ezra on Genesis 22:11:1 (Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004 [en])",
+      "snippet": "ABRAHAM, ABRAHAM. The repetition of the name expresses urgency."
+    },
+    {
+      "source_id": "Radak on I Chronicles 16:13:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "In the book of Psalms [it says], “O offspring of Abraham, His servant” ."
+    },
+    {
+      "source_id": "Radak on I Chronicles 16:13:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "The text here, though, says “offspring of Israel”; for when it says there “offspring of Abraham,” the intention is the offspring of Israel."
+    },
+    {
+      "source_id": "Radak on I Chronicles 16:13:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "After all, whereas Abraham had other offspring, the offspring of Israel consist of us specifically. When it says “offspring of Abraham,” it thus refers to the offspring of Israel."
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Chayei Sara, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "When the view is expressed in Baba Batra 16 that Abraham had a daughter, and that Abraham was secondary to Sarah, this is in contrast to Sarah whom he called \"my sister.\""
+    },
+    {
+      "source_id": "Shenei Luchot HaBerit, Torah Shebikhtav, Chayei Sara, Torah Ohr 31 (Shney Luchot Habrit by Rabbi Eliyahu Munk [en])",
+      "snippet": "Afterwards, as Abraham progressed spiritually , he suggests that she should describe him as \"my brother\" . Sarah's real relationship with Abraham at that time was of the level \"mother.\""
+    },
+    {
+      "source_id": "Rashi on Genesis 25:5:1 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": "Abraham gab. . ., R."
+    },
+    {
+      "source_id": "Rashi on Genesis 25:5:1 (Raschis Pentateuchkommentar, trans. Rabb. Dr. Selig Bamberger, Hamburg, 1922. Edited by Igor Itkin [de] [en])",
+      "snippet": "Nechemja sagt, den Segen als Testament; denn der Heilige, gelobt sei Er, hatte zu Abraham gesprochen, werde zum Segen, die Segnungen seien in deine Hand gegeben, zu segnen, wen du willst; und Abraham übergab"
+    },
+    {
+      "source_id": "Kiddushin 82a:10 (William Davidson Edition - English [en])",
+      "snippet": "“They shall still bring forth fruit in old age” , and it likewise states with regard to Abraham our forefather: “And Abraham was old, well stricken in age; and the Lord had blessed Abraham in all things"
+    },
+    {
+      "source_id": "Kiddushin 82a:10 (William Davidson Edition - English [en])",
+      "snippet": "We found that Abraham our forefather fulfilled the entire Torah before it was given, as it is stated: “Because that Abraham listened to My voice, and kept My charge, My commandments, My statutes, and My"
+    },
+    {
+      "source_id": "Kiddushin 82a:10 (William Davidson Edition - English [en])",
+      "snippet": "laws” , which indicates that Abraham observed all the mitzvot of his own accord and was rewarded in his old age as a result."
+    },
+    {
+      "source_id": "Genesis 18:1 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham’s Three Guests On the third day after his circumcision, 15 Nisan 2047, G OD appeared to Abraham to pay a visit to the sick."
+    },
+    {
+      "source_id": "Genesis 18:1 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "This occurred in Eilonim, the plains of Mamrei; God revealed Himself to Abraham in Mamrei’s territory as a reward for his having advised Abraham to follow God’s commandment to circumcise himself."
+    },
+    {
+      "source_id": "Genesis 18:1 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham was sitting at the entrance to the tent , looking out for travelers to host, but God had made the heat of the day unnaturally intense so that no one would venture out on the roads, thus giving"
+    },
+    {
+      "source_id": "Genesis 18:1 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham a chance to rest and recover ."
+    },
+    {
+      "source_id": "Genesis 18:1 (The Kehot Chumash; Chabad House Publications, Los Angeles [en])",
+      "snippet": "Abraham started to stand up in deference to God’s Presence, but God said, “You remain seated and I will stand.” 1 Rashi on Exodus 12:40–41. 2 Above, 17:23."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:26:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Apparently, Avimelech had been aware that someone had robbed Abraham of his wells but he did not know the identity of the robbers."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:26:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Abraham therefore told Avimelech that he should have made it his business to find out who the culprits were."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:26:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "To this argument Avimelech replied that Abraham himself was also at fault because he had not informed him previously."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:26:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Seeing Abraham had not informed him, he had remained unaware. This is the meaning of: \"also I did not hear until this day.\""
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 21:26:2 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "He meant that he made no effort to inform himself of the situation and was apprised of it only today when Abraham spoke up."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 16:5:4 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "She did this by emphasising that it was she who had initiated the union between Hagar and Abraham, not Abraham."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 16:5:4 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "She had given Hagar to Abraham inasmuch as she could dispose of the activities of her slave Hagar."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 16:5:4 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Why would the Torah repeat something we knew already, except to stress the conditions under which Hagar had been given to Abraham?"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 16:5:4 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "Hagar could only have been freed if her mistress had not given her to Abraham as a slave, or even specifically as a wife and we would fall back on the argument that Abraham would not consort with a harlot"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 16:5:4 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "She had given Abraham notice that Hagar would remain her slave also after he had slept with her. Had Sarah not had such an intention, she would simply have said to Abraham: \"sleep with Hagar!\""
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayeitze 12 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "“ He said, I am the Lord, the God of your father Abraham and the God of Isaac ” [28:13]. The Holy One appeared to Jacob and said to him. I am the God of Abraham your father and the God of Isaac."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayeitze 12 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Why does the verse say that He is the God of Abraham his father and with Isaac he does not say that he is the father of Jacob? Ba ’ al ha-Turim gives no answer."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayeitze 12 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Therefore, the verse comes and says that the Holy One had said to Jacob, Abraham is your proper father. That is to say, Abraham thought of you like a father."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayeitze 12 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham did not want to bless Isaac because he had seen that he had two children, Jacob and Esau. Abraham was afraid that if he blessed Isaac, he would also be blessing Esau."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayeitze 12 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Therefore, Abraham said: I will not bless Isaac; let God himself bless him. Abraham did not intend to bless Esau, but Isaac did intend to bless Esau."
+    },
+    {
+      "source_id": "Flames of Faith 14:5 (Flames of Faith, New York: Kodesh Press, 2014 [en])",
+      "snippet": "Abraham had waited one hundred years for the birth of Isaac, the son who was suitable for the continuation of Abraham’s mission."
+    },
+    {
+      "source_id": "Flames of Faith 14:5 (Flames of Faith, New York: Kodesh Press, 2014 [en])",
+      "snippet": "Abraham was not to merely give up his most beloved son; he was to perform this task with ecstatic joy, devotion, and a sense of connection to the Divine. Abraham fulfilled the challenge."
+    },
+    {
+      "source_id": "Flames of Faith 14:5 (Flames of Faith, New York: Kodesh Press, 2014 [en])",
+      "snippet": "In Abraham, yechidah was an or penimi and not merely an or makkif ."
+    },
+    {
+      "source_id": "Flames of Faith 14:5 (Flames of Faith, New York: Kodesh Press, 2014 [en])",
+      "snippet": "Since Abraham had to be ready for proph-ecy, God was demanding from him ecstatic joy."
+    },
+    {
+      "source_id": "Flames of Faith 14:5 (Flames of Faith, New York: Kodesh Press, 2014 [en])",
+      "snippet": "Abraham saw God from a distance because he lost all sense of inspired spirituality. 251 Shem Mi-Shmuel, Mo’adim , pg. 13."
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:100 (Sefaria Community Translation [en])",
+      "snippet": "Rabbi Elazar asks, How did Abraham enter the cave? He was running after a calf, about which it is written, \"And Abraham ran to the herd...\" . This calf ran to the cave."
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:100 (Sefaria Community Translation [en])",
+      "snippet": "Abraham ran after it and saw what he saw."
+    },
+    {
+      "source_id": "Bereshit Rabbah 56:4 (10191 [en])",
+      "snippet": "Und Jizchak sprach zu seinem Vater Abraham: Mein Vater! Samael kam zu unsrem Vater Abraham und sprach zu ihm: Alter, Alter! du hast wohl deinen Verstand verloren? Einen Sohn, der dir im 100."
+    },
+    {
+      "source_id": "Bereshit Rabbah 56:4 (10191 [en])",
+      "snippet": "Abraham antwortete: Trotzdem. Wie wäre es denn, fuhr Samael fort, wenn Gott dich noch mehr prüfte, würdest du auch dann beharren ? Abraham sprach: Und wenn noch mehr."
+    },
+    {
+      "source_id": "Bereshit Rabbah 56:4 (10191 [en])",
+      "snippet": "Abraham sprach: Trotzdem. Als Samael sah, dass er bei Abraham nichts ausrichtete, wandte er sich an Jizchak und sprach zu ihm: Sohn der Unglücklichen! er geht dich zu schlachten."
+    },
+    {
+      "source_id": "Bereshit Rabbah 56:4 (10191 [en])",
+      "snippet": "Als Jizchak den Abraham fragte: „Wo ist denn das Lamm zum Opfern?"
+    },
+    {
+      "source_id": "Bereshit Rabbah 56:4 (10191 [en])",
+      "snippet": "Abraham ging, um zu binden, Jizchak, um gebunden zu werden; Abraham, um zu schlachten, Jizchak, um geschlachtet zu werden. * Der Midr. nimmt בני als Acc. und zwar als Apposition zu ׃השה das Lamm, meinen"
+    },
+    {
+      "source_id": "Legends of the Jews 1:5:309 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "While sitting under the oak of Mamre, Abraham perceived a flashing of light and a smell of sweet odor, and turning around he saw Death coming toward him in great glory and beauty."
+    },
+    {
+      "source_id": "Legends of the Jews 1:5:309 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "And Death said unto Abraham: \"Think not, Abraham, that this beauty is mine, or that I come thus to every man."
+    },
+    {
+      "source_id": "Legends of the Jews 1:5:309 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "Abraham said to him, \"And art thou, indeed, he that is called Death?\" He answered, and said, \"I am the bitter name,\" but Abraham answered, \"I will not go with thee.\""
+    },
+    {
+      "source_id": "Legends of the Jews 1:5:309 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "All the servants of Abraham, looking at the fierce mien of Death, died, but Abraham prayed to the Lord, and he raised them up."
+    },
+    {
+      "source_id": "Legends of the Jews 1:5:309 (The Legends of the Jews by Louis Ginzberg [1909] [en])",
+      "snippet": "After great praise and glory had been given to the Lord by the angels who brought Abraham's soul, and after Abraham bowed down to worship, then came the voice of God, saying thus: \"Take My friend Abraham"
+    },
+    {
+      "source_id": "Targum Jonathan on Genesis 22:20 (The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 [en])",
+      "snippet": "And it was after these things, after Abraham had bound Izhak, that Satana came and told unto Sarah that Abraham had killed Izhak."
+    },
+    {
+      "source_id": "Targum Jonathan on Genesis 22:20 (The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 [en])",
+      "snippet": "But Abraham had come, and was resting in the way."
+    },
+    {
+      "source_id": "Targum Jonathan on Genesis 22:20 (The Targum of Jonathan ben Uzziel, trans. J. W. Etheridge, London, 1862 [en])",
+      "snippet": "And it was told Abraham, saying, Behold, Milcha also hath borne; she hath enlargement, through the righteousness of her sister, for bring forth sons unto Nachor thy brother:"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 14:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Then Thou spokest in vision to Thy godly ones refers to Abraham; I have laid help upon the one that is mighty alludes to the assistance which the Holy One gave him in his struggle against the kings; I"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 14:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "have exalted one chosen out of the people refers to Abraham, as it is said: Thou art the Lord the God, who didst choose Abraham and send him forth ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 14:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Hence Scripture says; Fear not, Abraham."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 20:1 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "And Abraham fell upon his face ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 20:1 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Prior to his circumcision, Abraham prostrated himself whenever the Shekhinah addressed him, but after he was circumcised, He remained standing, as it is said: And Abraham stood yet before the Lord ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Lech Lecha 20:1 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Indeed, the Holy One, blessed be He, also revealed Himself unto Abraham while he sat, as it is said: And the Lord appeared unto him by the terebinths of Mamre, as he sat in the tent door ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 6:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Similarly, Isaac resembled Abraham so closely that no one was able to distinguish between father and son, until Abraham pleaded with the Holy One, blessed be He, to differentiate between father and son"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 6:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "He did so by bestowing upon him the characteristics of old age, as it is said: And Abraham was old ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 6:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Therefore, it is written: Abraham begot Isaac . 2 The hair of his head turned white as he proclaimed the Unity of God."
+    },
+    {
+      "source_id": "Radak on I Chronicles 1:27:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "Abram—that is, Abraham."
+    },
+    {
+      "source_id": "Radak on I Chronicles 1:27:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "The text says “Abram” consistent with the way [one presents] genealogical lines; and “that is Abraham”—the famous one, whom God loved and whose name He aggrandized , making him a father of many nations"
+    },
+    {
+      "source_id": "Radak on I Chronicles 1:27:1 (The Commentary of Radak to Chronicles: A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007 [en])",
+      "snippet": "In the course of presenting the lines of Abraham, the text provides the lines of his son Ishmael and the sons of Keturah, and after that it states “Abraham fathered Isaac” because he is the essential one"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 113 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abimelech said that Abraham had great luck. He had been protected from Sodom, from the great kings and his wife had a child in her old age."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 113 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abimelech was afraid of Abraham and said to Abraham: swear to me that you will not do evil to my children, just as I have done kindness with you."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 113 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham swore to Abimelech. 122 Rashi, Genesis, 21:22–23."
+    },
+    {
+      "source_id": "Midrash Aggadah, Genesis 25:19:3 (Sefaria Community Translation [en])",
+      "snippet": "Another interpretation: Abraham sired Isaac."
+    },
+    {
+      "source_id": "Midrash Aggadah, Genesis 25:19:3 (Sefaria Community Translation [en])",
+      "snippet": "Because people were saying that Isaac was the son of Avimelech, therefore the Holy One Blessed Be He made Isaac's face similar to Abraham's, in order that all would know that Isaac is the son of Abraham"
+    },
+    {
+      "source_id": "Midrash Aggadah, Genesis 25:19:3 (Sefaria Community Translation [en])",
+      "snippet": "Therefore it is stated, \"Abraham sired Isaac.\" And all who see Isaac would say that he is certainly Abraham's son, since Abraham sired Isaac."
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:109 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "Abraham made answer: “I am already destined to make atonement before the Almighty for thee, so that thou mayest nevermore be shamed before Him.”"
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:109 (The Zohar; London, Soncino Press, 1933 [en])",
+      "snippet": "Forthwith Abraham after this buried Sarah his wife, to wit, after Abraham had taken upon himself this obligation."
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:109 (Sefaria Community Translation [en])",
+      "snippet": "Abraham said, I am ready to pray for you before the Holy One, blessed be He, so you shall never be disgraced before Him, \"And after this, Abraham buried Sarah his wife\" ."
+    },
+    {
+      "source_id": "Zohar, Chayei Sara 15:109 (Sefaria Community Translation [en])",
+      "snippet": "After Abraham undertook"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 39 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "“ Shall I hide from Abraham ” [18:17]. The Holy One said: How can I not tell Abraham what I want to do with Sodom and Gomorrah?"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Vayera 39 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham is pious and commanded his children the Torah and commandments. 43 Rashi, Genesis, 18:17."
+    },
+    {
+      "source_id": "Book of Jubilees 24:25 (The Book of Jubilees, trans. R. H. Charles. London [1917] [en])",
+      "snippet": "And they digged again the wells of water which the servants of Abraham, his father, had digged, and which the Philistines had closed after the death of Abraham his father, and he called their names as"
+    },
+    {
+      "source_id": "Book of Jubilees 24:25 (The Book of Jubilees, trans. R. H. Charles. London [1917] [en])",
+      "snippet": "Abraham his father had named them."
+    },
+    {
+      "source_id": "Sanhedrin 46b:21 (William Davidson Edition - English [en])",
+      "snippet": "The Gemara suggests: Come and hear a proof from the verse that states: “And Abraham came to eulogize Sarah and weep over her” , indicating that Sarah’s funeral was delayed until Abraham returned from Beersheba"
+    },
+    {
+      "source_id": "Sanhedrin 46b:21 (William Davidson Edition - English [en])",
+      "snippet": "The Gemara rejects this argument: It was satisfactory to Sarah herself that her funeral was delayed so that Abraham could be honored by eulogizing her."
+    },
+    {
+      "source_id": "Sanhedrin 46b:21 (William Davidson Edition - English [en])",
+      "snippet": "Since Sarah herself would prefer that Abraham eulogize her, there was no disgrace in waiting for Abraham to arrive."
+    },
+    {
+      "source_id": "Pirkei DeRabbi Eliezer 31:1 (Pirke de Rabbi Eliezer, trans. Rabbi Gerald Friedlander, London, 1916 [en])",
+      "snippet": "THE BINDING OF ISAAC ON THE ALTAR T HE tenth trial was : \"And it came to pass after these things, that God did prove Abraham\" ."
+    },
+    {
+      "source_id": "Pirkei DeRabbi Eliezer 31:1 (Pirke de Rabbi Eliezer, trans. Rabbi Gerald Friedlander, London, 1916 [en])",
+      "snippet": "He tried Abraham each time in order to know his heart, whether he would be able to persevere and keep all the commandments of the Torah or not, and whilst as yet the Torah had not been given, Abraham kept"
+    },
+    {
+      "source_id": "Pirkei DeRabbi Eliezer 31:1 (Pirke de Rabbi Eliezer, trans. Rabbi Gerald Friedlander, London, 1916 [en])",
+      "snippet": "all the precepts of the Torah, as it is said, \"Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my Torah\" ."
+    },
+    {
+      "source_id": "Pirkei DeRabbi Eliezer 31:1 (Pirke de Rabbi Eliezer, trans. Rabbi Gerald Friedlander, London, 1916 [en])",
+      "snippet": "And Ishmael went repeatedly from the wilderness to see || his father Abraham."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 6:5 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "The Holy One, blessed be He, said to Abraham: Before your circumcision you prostrated yourself when you addressed Me, as is said: And Abraham fell on his face; and God talked with him ; but after he was"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 6:5 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "circumcised, the Holy One, blessed be He, stood while Abraham remained seated, as it is said: And the Lord appeared unto him by the terebinths of Mamre as he sat in the tent door ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 6:5 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "The Holy One, blessed be He, disclosed to Abraham His decision to destroy the five cities of Sodom only because of that merit , as is said: And the Lord said: Shall I hide from Abraham?"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 8:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Similarly, after the Sodomites had transgressed, He revealed His intentions to Abraham in order to discover something to their credit, as it is said: And the Lord said: “Shall I hide from Abraham?”"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 8:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Abraham began to plead in their behalf, as it is said: And Abraham drew near and said: “Wilt Thou, indeed, sweep away the righteous with the wicked?” ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Vayera 8:2 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Drew near is an expression used to indicate prayer, as is said: And it came to pass, at the time of the offering of the evening offering, that Elijah the prophet drew near and said: “O Lord, the God of Abraham"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 12:3:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "This additional blessing was to compensate Abraham for G'd's failure to tell him the destination he was headed for. After all, G'd did not even tell Abraham which country to head for!"
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 12:3:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "It was a tremendous test for Abraham to just leave his home, etc., without having the slightest idea where he was to make his new home."
+    },
+    {
+      "source_id": "Or HaChaim on Genesis 12:3:1 (Or Hachayim, trans. Eliyahu Munk [en])",
+      "snippet": "The fact that Abraham did not query G'd in his mind or by prayer is considered as extremely praiseworthy. As a result of this blind faith in G'd, Abraham encountered success wherever he went."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 15 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Why did Abraham leave the land of Canaan , the Holy Land, because of famine, when the Holy One had told him to go to the land of Canaan?"
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 15 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The explanation is that Abraham was afraid that the gentiles would say that Abraham has come in to our land and has converted the gentiles. Therefore, the famine came to the land."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 15 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Thus, Abraham needed to leave the land because of the famine."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 15 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "In particular, since this was the first famine in the world, and the gentiles would say that this happened because of the faith of Abraham. 19 Ibid."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 56 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Abraham counted it as a charitable act to God that He promised him to give him children. The Holy One did this for His sake and not because of Abraham ’ s merit. So writes the Ramban."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 56 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "Bahya writes that the Holy One reckoned it to Abraham as a great thing that Abraham believed what God said."
+    },
+    {
+      "source_id": "Tze'enah Ure'enah, Lech Lecha 56 (A Critical Translation into English; Edited and translated by Morris M. Faierstein. De Gruyter, 2017 [en])",
+      "snippet": "The Holy One considered this as if Abraham did a deed with a commandment, even though he did not have in mind to fulfill a commandment. 69 Ramban, Genesis, 15:6. 70 Bahya, Genesis, 15:6."
+    },
+    {
+      "source_id": "Genesis 25:19 (THE JPS TANAKH: Gender-Sensitive Edition [en])",
+      "snippet": "This is the story of Isaac, son of Abraham. Abraham begot Isaac."
+    },
+    {
+      "source_id": "Selichot Nusach Lita Linear, Fourth Day of the Ten Days of Penitence 7:124 (The Metsudah Selichos: translated and annotated by Rabbi Avrohom Davis, Metsudah Publications, 1986 [en])",
+      "snippet": "satiate the descendants of Abraham. 18 “ עֵבֶר —Abraham who is called הָעִבְרִי ."
+    },
+    {
+      "source_id": "Siddur Ashkenaz, Weekday, Shacharit, Preparatory Prayers, Akedah 1 (Ha-Siddur Ha-Shalem (1949) [en])",
+      "snippet": "And it came to pass after these things that God put Abraham to the test, and said to him: \"Abraham\"; and he answered: \"Here I am.\""
+    },
+    {
+      "source_id": "Siddur Ashkenaz, Weekday, Shacharit, Preparatory Prayers, Akedah 1 (Ha-Siddur Ha-Shalem (1949) [en])",
+      "snippet": "On the third day, Abraham looked up and saw the place at a distance."
+    },
+    {
+      "source_id": "Siddur Ashkenaz, Weekday, Shacharit, Preparatory Prayers, Akedah 1 (Ha-Siddur Ha-Shalem (1949) [en])",
+      "snippet": "Then Abraham put out his hand and took the knife to slay his son. But the angel of the Lord called to him from the heavens: \"Abraham, Abraham,\" and he answered: \"Here I am.\""
+    },
+    {
+      "source_id": "Siddur Ashkenaz, Weekday, Shacharit, Preparatory Prayers, Akedah 1 (Ha-Siddur Ha-Shalem (1949) [en])",
+      "snippet": "Then Abraham looked up and saw behind him a ram caught in the thicket by its horns; so Abraham went and took the ram, and offered it as a burnt-offering instead of his son."
+    },
+    {
+      "source_id": "Siddur Ashkenaz, Weekday, Shacharit, Preparatory Prayers, Akedah 1 (Ha-Siddur Ha-Shalem (1949) [en])",
+      "snippet": "Abraham then returned to his servants, and they started together for Beersheba, for Abraham dwelt in Beersheba."
+    },
+    {
+      "source_id": "Ceremony and Celebration; Introduction to the Holidays, Pesah; Finding Freedom, Prefigurations of the Exodus 2 (Maggid Books, 2017 [en])",
+      "snippet": "Abraham must travel to Egypt where there is food. Sarah is a beautiful woman; Abraham fears he will be killed so that Sarah can be taken into the royal harem."
+    },
+    {
+      "source_id": "Ceremony and Celebration; Introduction to the Holidays, Pesah; Finding Freedom, Prefigurations of the Exodus 2 (Maggid Books, 2017 [en])",
+      "snippet": "He intuits – the text is not clear how – that this has something to do with Abraham and Sarah. He summons Abraham who tells him the truth, whereupon Pharaoh sends both of them away."
+    },
+    {
+      "source_id": "Ceremony and Celebration; Introduction to the Holidays, Pesah; Finding Freedom, Prefigurations of the Exodus 2 (Maggid Books, 2017 [en])",
+      "snippet": "Meanwhile, in Egypt, Abraham has grown wealthy. The story then resumes where we left it, with Abraham and his household in the land of Canaan."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 1:4 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "In fact, Abraham also had some misgivings. What did the Holy One, blessed be He, do?"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 1:4 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "We know that this was so from the verse These are the generations of Isaac, Abraham’s son: Abraham begot Isaac ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 1:4 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Since the verse states Isaac, Abraham’s son , could we not know from those words that Abraham begot Isaac? Why then does Scripture add the words Abraham begot Isaac ?"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Toldot 1:4 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Because everyone who looked at Abraham would exclaim: “Without doubt Abraham begot Isaac , since their countenances are so much alike.” Hence Scripture says: Abraham begot Isaac ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Shemot 1:9 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "This alludes to Abraham, who punished Isaac, taught him the law, and guided him in his ways, as it is written of him: Because that Abraham harkened to My voice, and kept My charge ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Shemot 1:9 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "And it is also written elsewhere: And these are the generations of Isaac, Abraham’s son: Abraham begot Isaac ."
+    },
+    {
+      "source_id": "Midrash Tanchuma, Shemot 1:9 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "You know this to be so from the fact that though Isaac, at the time of the sacrifice, was thirty-seven years of age, and Abraham was an old man, yet he bound him and tied him as though he were a sheep,"
+    },
+    {
+      "source_id": "Midrash Tanchuma, Shemot 1:9 (Midrash Tanhuma-Yelammedenu, trans. Samuel A. Berman [en])",
+      "snippet": "Scripture states: And Abraham gave all that he had unto Isaac, but unto the sons of the concubines that Abraham had, Abraham gave gifts ; that is to say, he distanced them from Isaac ."
+    }
+  ]
+}
